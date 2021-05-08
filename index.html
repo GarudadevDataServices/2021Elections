@@ -28,7 +28,6 @@
 		}
 		#card {
         	height: 600px;
-        	display: flex;
 		}
 		 #map {
         	width: 400px;
@@ -37,8 +36,10 @@
         }
       	#result
 		{
+		  position: absolute;
           width: 300px;
           height: 500px;
+          top:100px;
 		  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   		  transition: 0.3s;
   		  padding: 15px;
@@ -47,10 +48,20 @@
 		.leaflet-container {
     		background-color:rgba(255,0,0,0.0);
 		}
+		@media screen and (max-width: 400px) {
+		   #result
+			{
+	          width: 300px;
+	          height: 500px;
+			  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	  		  transition: 0.3s;
+	  		  padding: 15px;
+	  		  overflow-x: hidden;
+			}
+		}
 	</style>
 </head>
 <body>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<button id="ASSAM" onclick="changeState(1)">ASSAM</button>
 	<button id="KERALA" onclick="changeState(2)">KERALA</button>
 	<button id="TAMIL NADU" onclick="changeState(3)">TAMIL NADU</button>
@@ -95,11 +106,11 @@
 		var zoom=totalData[state][4];
 		var width=totalData[state][5];
 		var height=totalData[state][6];
-		document.getElementById(state).style.backgroundColor="yellow";
+		document.getElementById(state).style.backgroundColor="green";
 		document.getElementById("map").style.width=width+"px";
 		document.getElementById("map").style.height=height+"px";
 		document.getElementById("result").style.height=height/2+"px";
-		//document.getElementById("result").style.left=(100+width)+"px";
+		document.getElementById("result").style.left=(100+width)+"px";
 		if (map){
 		map.remove();}
 		map=L.map("map", { zoomControl: false, attributionControl:false}).setView([lon,lat], zoom);
