@@ -8,6 +8,12 @@
 	<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 	<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 	<style>
+		@media only screen and (max-width: 960px) {
+		  .col-xs-12 {
+		    display: flex;
+		    flex-direction: column-reverse;
+		  }
+		}
 		button {
 		  border-color: #3498db;
 		  background-color: skyblue;
@@ -22,6 +28,7 @@
 		}
 		#card {
         	height: 600px;
+        	display: flex;
 		}
 		 #map {
         	width: 400px;
@@ -30,14 +37,12 @@
         }
       	#result
 		{
-		  position:absolute;
           width: 300px;
           height: 500px;
-          right: 10px;
-		  top:100px;
 		  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   		  transition: 0.3s;
   		  padding: 15px;
+  		  overflow-x: hidden;
 		}
 		.leaflet-container {
     		background-color:rgba(255,0,0,0.0);
@@ -68,7 +73,7 @@
 	var stateLayer;
 	var tapped=false;
 	var lastClickedLayer,checkLayer;
-	var state="KERALA";
+	var state="WEST BENGAL";
 	$.getJSON("./alt.json", function(json) {
     	 alt=json;
 	});
