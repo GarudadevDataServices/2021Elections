@@ -47,6 +47,8 @@
 		.leaflet-container {
     		background-color:rgba(255,0,0,0.0);
 		}
+		.legend { text-align: left; width:80px;line-height: 18px; color: #555; } 
+		.legend i { width: 80px; height: 18px; float: left; margin-right: 8px; opacity: 0.7; color:black; }
 	</style>
 </head>
 <body>
@@ -69,11 +71,12 @@
 			loadMap(state);
 		}
 	}
-	var data,alt,colors,totalData,map;
+	var data,alt,colors,totalData,map,div;
 	var stateLayer;
 	var tapped=false;
 	var lastClickedLayer,checkLayer;
 	var state="WEST BENGAL";
+	var partys={};
 	$.getJSON("./alt.json", function(json) {
     	 alt=json;
 	});
@@ -81,13 +84,16 @@
     	 colors=json;
 	});
    	totalData={
-	"WEST BENGAL":["./data/WB.json","./cons/wb.geojson",24.5266711,88.0825198,7,600,600],
-	"KERALA":["./data/KERALA.json","./cons/kerala.geojson",10.0517048,76.5419599,7,600,600],
-	"TAMIL NADU":["./data/TN.json","./cons/tn.geojson",10.689306,78.4316083,7,600,600],
-	"ASSAM":["./data/ASSAM.json","./cons/assam.geojson",25.9521311,92.830272,7,600,600],
+	"WEST BENGAL":["./data/WB.json","./cons/wb.geojson",24.5266711,88.0825198,7,700,600],
+	"KERALA":["./data/KERALA.json","./cons/kerala.geojson",10.0517048,76.5419599,7,700,600],
+	"TAMIL NADU":["./data/TN.json","./cons/tn.geojson",10.689306,78.4316083,7,700,600],
+	"ASSAM":["./data/ASSAM.json","./cons/assam.geojson",25.9521311,92.830272,7,700,600],
 	};
 	
 	function loadMap(state){
+		tapped=null;
+		var legend = L.control({position: 'bottomright'});
+		div = L.DomUtil.create('div', 'info legend');
 		var path=totalData[state][0];
 		var cons=totalData[state][1];
 		var lon=totalData[state][2];
@@ -95,23 +101,30 @@
 		var zoom=totalData[state][4];
 		var width=totalData[state][5];
 		var height=totalData[state][6];
-		document.getElementById(state).style.backgroundColor="yellow";
+		document.getElementById(state).style.backgroundColor="green";
 		document.getElementById("map").style.width=width+"px";
 		document.getElementById("map").style.height=height+"px";
 		document.getElementById("result").style.height=height/2+"px";
-		//document.getElementById("result").style.left=(100+width)+"px";
+		document.getElementById("result").style.left=(100+width)+"px";
 		if (map){
 		map.remove();}
+
+		$.getJSON(path, function(json) {
+	    	 data=json;
+		});
 		map=L.map("map", { zoomControl: false, attributionControl:false}).setView([lon,lat], zoom);
 			$.getJSON(cons,function(data){
 					stateLayer=L.geoJson(data,{style:style,onEachFeature: onEachFeature});
 					stateLayer.addTo(map);
 				});
 
-		$.getJSON(path, function(json) {
-	    	 data=json;
-		});
+		legend.onAdd = function (map) {
+			return div;
+		};
+
+		legend.addTo(map);
 		}
+
 	loadMap(state);
 
 
@@ -149,7 +162,6 @@
     }
 
     function onEachFeature(feature, layer) {
-    	
     	if (feature.properties.ST_NAME!=state){
     		layer.on("click", function (e) { 
     		if (lastClickedLayer){stateLayer.resetStyle(lastClickedLayer);}
@@ -164,6 +176,15 @@
           fillOpacity: .7
       		};
     	try{
+    	if (alt[data[feature.properties.AC_NO]['lead']] in partys){
+    		partys[alt[data[feature.properties.AC_NO]['lead']]]+=1;
+    	}
+    	else{
+    		var i=alt[data[feature.properties.AC_NO]['lead']];
+    		div.innerHTML+='<i style="background:'+rgba2hex(colors[i])+'"<b>'+i+'</b></i>'
+    		partys[alt[data[feature.properties.AC_NO]['lead']]]=1;
+    	}
+
     	var output;
     	output='<b>AC NAME: </b>'+feature.properties.AC_NAME+'<br>';
     	output+='<b>AC NO:  </b>'+feature.properties.AC_NO+'<hr>';
@@ -204,5 +225,6 @@
         catch(err){}
     }
 	</script>
+	<a href="https://www.github.com/datta07">d</a>
 </body>
 </html>
