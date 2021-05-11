@@ -85,6 +85,7 @@
 	
 	function loadMap(state){
 		tapped=null;
+		partys={};
 		var legend = L.control({position: 'bottomright'});
 		div = L.DomUtil.create('div', 'info legend');
 		var path=totalData[state][0];
@@ -121,6 +122,7 @@
 		};
 
 		info.addTo(map);
+
 		legend.onAdd = function (map) {
 			return div;
 		};
