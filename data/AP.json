@@ -1,0 +1,1577 @@
+{
+    "1": {
+        "name": "Ichchapuram",
+        "lead": "TDP",
+        "leadName": "ASHOK BENDALAM",
+        "ops": "YSRCP",
+        "opsName": "PIRIYA SAIRAJ",
+        "margin": "7145",
+        "status": "Result Declared"
+    },
+    "2": {
+        "name": "Palasa",
+        "lead": "YSRCP",
+        "leadName": "APPALARAJU SEEDIRI",
+        "ops": "TDP",
+        "opsName": "GOUTHU SIREESHA",
+        "margin": "16247",
+        "status": "Result Declared"
+    },
+    "3": {
+        "name": "Tekkali",
+        "lead": "TDP",
+        "leadName": "ATCHANNAIDU KINJARAPU",
+        "ops": "YSRCP",
+        "opsName": "PERADA TILAK",
+        "margin": "8545",
+        "status": "Result Declared"
+    },
+    "4": {
+        "name": "Pathapatnam",
+        "lead": "YSRCP",
+        "leadName": "REDDY SHANTHI",
+        "ops": "TDP",
+        "opsName": "KALAMATA VENKATA RAMANA MURTHY",
+        "margin": "15551",
+        "status": "Result Declared"
+    },
+    "5": {
+        "name": "Srikakulam",
+        "lead": "YSRCP",
+        "leadName": "DHARMANA PRASADA RAO",
+        "ops": "TDP",
+        "opsName": "GUNDA LAKSHMI DEVI",
+        "margin": "5777",
+        "status": "Result Declared"
+    },
+    "6": {
+        "name": "Amadalavalasa",
+        "lead": "YSRCP",
+        "leadName": "THAMMINENI SEETHARAM",
+        "ops": "TDP",
+        "opsName": "KOONA RAVIKUMAR",
+        "margin": "13991",
+        "status": "Result Declared"
+    },
+    "7": {
+        "name": "Etcherla",
+        "lead": "YSRCP",
+        "leadName": "Gorle. Kiran Kumar",
+        "ops": "TDP",
+        "opsName": "Kalavenkata Rao Kimidi",
+        "margin": "18711",
+        "status": "Result Declared"
+    },
+    "8": {
+        "name": "Narasannapeta",
+        "lead": "YSRCP",
+        "leadName": "DHARMANA KRISHNA DAS",
+        "ops": "TDP",
+        "opsName": "Baggu Ramana Murthy",
+        "margin": "19555",
+        "status": "Result Declared"
+    },
+    "9": {
+        "name": "Rajam (SC)",
+        "lead": "YSRCP",
+        "leadName": "KAMBALA JOGULU",
+        "ops": "TDP",
+        "opsName": "KONDRU MURALI MOHAN",
+        "margin": "16848",
+        "status": "Result Declared"
+    },
+    "10": {
+        "name": "Palakonda  (ST)",
+        "lead": "YSRCP",
+        "leadName": "VISWASARAYI KALAVATHI",
+        "ops": "TDP",
+        "opsName": "JAYAKRISHNA NIMMAKA",
+        "margin": "17980",
+        "status": "Result Declared"
+    },
+    "11": {
+        "name": "Kurupam ",
+        "lead": "YSRCP",
+        "leadName": "PUSHPASREEVANI . PAMULA",
+        "ops": "TDP",
+        "opsName": "VEERA VARA THODRAMAL NARA SIMHA PRIYA THATRAJ",
+        "margin": "26602",
+        "status": "Result Declared"
+    },
+    "12": {
+        "name": "Parvathipuram ",
+        "lead": "YSRCP",
+        "leadName": "ALAJANGI JOGARAO",
+        "ops": "TDP",
+        "opsName": "Bobbili Chiranjeevulu",
+        "margin": "24199",
+        "status": "Result Declared"
+    },
+    "13": {
+        "name": "Salur ",
+        "lead": "YSRCP",
+        "leadName": "PEEDIKA. RAJANNA DORA",
+        "ops": "TDP",
+        "opsName": "R. P. BHANJ DEO",
+        "margin": "20029",
+        "status": "Result Declared"
+    },
+    "14": {
+        "name": "Bobbili ",
+        "lead": "YSRCP",
+        "leadName": "SAMBANGI VENKATACHINA APPALA NAIDU",
+        "ops": "TDP",
+        "opsName": "VENKATA SUJAY KRISHNA RANGA RAO RAVU",
+        "margin": "8352",
+        "status": "Result Declared"
+    },
+    "15": {
+        "name": "Cheepurupalli",
+        "lead": "YSRCP",
+        "leadName": "BOTCHA SATYANARAYANA",
+        "ops": "TDP",
+        "opsName": "NAGARJUNA KIMIDI",
+        "margin": "26498",
+        "status": "Result Declared"
+    },
+    "16": {
+        "name": "Gajapathinagaram",
+        "lead": "YSRCP",
+        "leadName": "APPALANARASAYYA BOTCHA",
+        "ops": "TDP",
+        "opsName": "APPALA NAIDU KONDAPALLI",
+        "margin": "27011",
+        "status": "Result Declared"
+    },
+    "17": {
+        "name": "Nellimarla",
+        "lead": "YSRCP",
+        "leadName": "APPALA NAIDU BADDUKONDA",
+        "ops": "TDP",
+        "opsName": "NARAYANASWAMY NAIDU PATHIVADA",
+        "margin": "28051",
+        "status": "Result Declared"
+    },
+    "18": {
+        "name": "Vizianagaram",
+        "lead": "YSRCP",
+        "leadName": "VEERA BHADRA SWAMY KOLAGATLA",
+        "ops": "TDP",
+        "opsName": "ADITI VIJAYALAKSHMI GAJAPATHI RAJU PUSAPATI",
+        "margin": "6417",
+        "status": "Result Declared"
+    },
+    "19": {
+        "name": "Srungavarapukota",
+        "lead": "YSRCP",
+        "leadName": "Kadubandi Srinivasa Rao",
+        "ops": "TDP",
+        "opsName": "Kolla Lalitha Kumari",
+        "margin": "11365",
+        "status": "Result Declared"
+    },
+    "20": {
+        "name": "Bhimli",
+        "lead": "YSRCP",
+        "leadName": "MUTTAMSETTI SRINIVASARAO (AVANTHI SRINIVAS)",
+        "ops": "TDP",
+        "opsName": "SABBAM HARI",
+        "margin": "9712",
+        "status": "Result Declared"
+    },
+    "21": {
+        "name": "Visakhapatnam East",
+        "lead": "TDP",
+        "leadName": "RAMAKRISHNA BABU VELAGAPUDI",
+        "ops": "YSRCP",
+        "opsName": "AKKARAMANI VIJAYA NIRMALA",
+        "margin": "26474",
+        "status": "Result Declared"
+    },
+    "22": {
+        "name": "Visakhapatnam South",
+        "lead": "TDP",
+        "leadName": "GANESH KUMAR VASUPALLI",
+        "ops": "YSRCP",
+        "opsName": "DRONAMRAJU SRINIVASA RAO",
+        "margin": "3729",
+        "status": "Result Declared"
+    },
+    "23": {
+        "name": "Visakhapatnam  North",
+        "lead": "TDP",
+        "leadName": "GANTA SRINIVASA RAO",
+        "ops": "YSRCP",
+        "opsName": "KAMMILA KANNAPARAJU (K.K. RAJU)",
+        "margin": "1944",
+        "status": "Result Declared"
+    },
+    "24": {
+        "name": "Visakhapatnam  West",
+        "lead": "TDP",
+        "leadName": "P G V R NAIDU(GANA BABU)",
+        "ops": "YSRCP",
+        "opsName": "VIJAY PRASAD MALLA",
+        "margin": "18981",
+        "status": "Result Declared"
+    },
+    "25": {
+        "name": "Gajuwaka",
+        "lead": "YSRCP",
+        "leadName": "NAGIREDDY TIPPALA",
+        "ops": "JnP",
+        "opsName": "PAWAN KALYAN KONIDALA",
+        "margin": "16753",
+        "status": "Result Declared"
+    },
+    "26": {
+        "name": "Chodavaram",
+        "lead": "YSRCP",
+        "leadName": "KARANAM DHARMASRI",
+        "ops": "TDP",
+        "opsName": "KALIDINDI SURYA NAGA SANYASI RAJU",
+        "margin": "27637",
+        "status": "Result Declared"
+    },
+    "27": {
+        "name": "V.Madugula",
+        "lead": "YSRCP",
+        "leadName": "BUDI MUTYALA NAIDU",
+        "ops": "TDP",
+        "opsName": "GAVIREDDI RAMANAIDU",
+        "margin": "16392",
+        "status": "Result Declared"
+    },
+    "28": {
+        "name": "Araku valley ",
+        "lead": "YSRCP",
+        "leadName": "CHETTI. PALGUNA",
+        "ops": "IND",
+        "opsName": "DONNU DORA SIYYARI",
+        "margin": "25441",
+        "status": "Result Declared"
+    },
+    "29": {
+        "name": "Paderu ",
+        "lead": "YSRCP",
+        "leadName": "BHAGYA LAKSHMI KOTTAGULLI",
+        "ops": "TDP",
+        "opsName": "ESWARI. GIDDI",
+        "margin": "42804",
+        "status": "Result Declared"
+    },
+    "30": {
+        "name": "Anakapalli",
+        "lead": "YSRCP",
+        "leadName": "Amarnath Gudivada",
+        "ops": "TDP",
+        "opsName": "Peela Govinda Satyanarayana",
+        "margin": "8169",
+        "status": "Result Declared"
+    },
+    "31": {
+        "name": "Pendurthi",
+        "lead": "YSRCP",
+        "leadName": "ANNAMREDDY ADEEP RAJ",
+        "ops": "TDP",
+        "opsName": "BANDARU SATYANARAYANA MURTHY",
+        "margin": "28860",
+        "status": "Result Declared"
+    },
+    "32": {
+        "name": "ELAMANCHILI",
+        "lead": "YSRCP",
+        "leadName": "UPPALAPATI VENKATA RAMANAMURTHY RAJU",
+        "ops": "TDP",
+        "opsName": "PANCHAKARLA RAMESH BABU",
+        "margin": "4146",
+        "status": "Result Declared"
+    },
+    "33": {
+        "name": "PAYAKARAOPETA ",
+        "lead": "YSRCP",
+        "leadName": "GOLLA BABURAO",
+        "ops": "TDP",
+        "opsName": "B. BANGARAIAH",
+        "margin": "31189",
+        "status": "Result Declared"
+    },
+    "34": {
+        "name": "Narsipatnam",
+        "lead": "YSRCP",
+        "leadName": "UMA SANKARA GANESH PETLA",
+        "ops": "TDP",
+        "opsName": "AYYANNA PATRUDU CHINTAKAYALA",
+        "margin": "23366",
+        "status": "Result Declared"
+    },
+    "35": {
+        "name": "Tuni",
+        "lead": "YSRCP",
+        "leadName": "DADISETTI RAJA",
+        "ops": "TDP",
+        "opsName": "YANAMALA KRISHNUDU",
+        "margin": "24016",
+        "status": "Result Declared"
+    },
+    "36": {
+        "name": "Prathipadu",
+        "lead": "YSRCP",
+        "leadName": "Sri Purnachandra Prasad Parvatha",
+        "ops": "TDP",
+        "opsName": "Varupula Raja",
+        "margin": "4611",
+        "status": "Result Declared"
+    },
+    "37": {
+        "name": "Pithapuram",
+        "lead": "YSRCP",
+        "leadName": "Dorababu Pendem",
+        "ops": "TDP",
+        "opsName": "S.V.S.N. VARMA",
+        "margin": "14992",
+        "status": "Result Declared"
+    },
+    "38": {
+        "name": "Kakinada Rural",
+        "lead": "YSRCP",
+        "leadName": "Kurasala Kannababu",
+        "ops": "TDP",
+        "opsName": "Ananthlakshmi Pilli",
+        "margin": "8789",
+        "status": "Result Declared"
+    },
+    "39": {
+        "name": "Peddapuram",
+        "lead": "TDP",
+        "leadName": "Nimmakayala China Rajappa",
+        "ops": "YSRCP",
+        "opsName": "Thota Saraswathi Ane Vani",
+        "margin": "4027",
+        "status": "Result Declared"
+    },
+    "40": {
+        "name": "Anaparthy",
+        "lead": "YSRCP",
+        "leadName": "DOCTOR. SATHI SURYANARAYANA REDDY",
+        "ops": "TDP",
+        "opsName": "NALLAMILLI RAMAKRISHNA REDDY",
+        "margin": "55207",
+        "status": "Result Declared"
+    },
+    "41": {
+        "name": "Kakinada City",
+        "lead": "YSRCP",
+        "leadName": "Dwarampudi Chandra Sekhara Reddy",
+        "ops": "TDP",
+        "opsName": "VANAMADI VENKATESWARA RAO @ KONDABABU",
+        "margin": "14111",
+        "status": "Result Declared"
+    },
+    "42": {
+        "name": "Ramachandrapuram",
+        "lead": "YSRCP",
+        "leadName": "CHELLUBOYINA SRINIVASA VENUGOPALAKRISHNA",
+        "ops": "TDP",
+        "opsName": "THOTA TRIMURTHULU",
+        "margin": "5168",
+        "status": "Result Declared"
+    },
+    "43": {
+        "name": "Mummidivaram",
+        "lead": "YSRCP",
+        "leadName": "PONNADA VENKATA SATISH KUMAR",
+        "ops": "TDP",
+        "opsName": "DATLA SUBBA RAJU (BUTCHI BABU)",
+        "margin": "5547",
+        "status": "Result Declared"
+    },
+    "44": {
+        "name": "Amalapuram ",
+        "lead": "YSRCP",
+        "leadName": "VISWARUPU PINIPE",
+        "ops": "TDP",
+        "opsName": "AITHABATHULA ANANDARAO",
+        "margin": "25654",
+        "status": "Result Declared"
+    },
+    "45": {
+        "name": "Razole ",
+        "lead": "JnP",
+        "leadName": "RAPAKA VARA PRASADA RAO",
+        "ops": "YSRCP",
+        "opsName": "RAJESWARA RAO BONTHU",
+        "margin": "814",
+        "status": "Result Declared"
+    },
+    "46": {
+        "name": "Gannavaram (SC)",
+        "lead": "YSRCP",
+        "leadName": "KONDETI CHITTI BABU",
+        "ops": "TDP",
+        "opsName": "NELAPUDI STALIN BABU",
+        "margin": "22207",
+        "status": "Result Declared"
+    },
+    "47": {
+        "name": "Kothapeta",
+        "lead": "YSRCP",
+        "leadName": "CHIRLA JAGGIREDDY",
+        "ops": "TDP",
+        "opsName": "BANDARU SATYANANDA RAO",
+        "margin": "4038",
+        "status": "Result Declared"
+    },
+    "48": {
+        "name": "Mandapeta",
+        "lead": "TDP",
+        "leadName": "JOGESWARA RAO. V",
+        "ops": "YSRCP",
+        "opsName": "PILLI SUBHAS CHANDRA BOSE",
+        "margin": "10600",
+        "status": "Result Declared"
+    },
+    "49": {
+        "name": "Rajanagaram",
+        "lead": "YSRCP",
+        "leadName": "JAKKAMPUDI RAJA",
+        "ops": "TDP",
+        "opsName": "PENDURTHI VENKATESH",
+        "margin": "31772",
+        "status": "Result Declared"
+    },
+    "50": {
+        "name": "Rajahmundry City",
+        "lead": "TDP",
+        "leadName": "ADIREDDY BHAVANI",
+        "ops": "YSRCP",
+        "opsName": "ROUTHU SURYA PRAKASA RAO",
+        "margin": "30065",
+        "status": "Result Declared"
+    },
+    "51": {
+        "name": "Rajamundry Rural",
+        "lead": "TDP",
+        "leadName": "Gorantla Butchaiah Choudary",
+        "ops": "YSRCP",
+        "opsName": "AKULA VEERRAJU",
+        "margin": "10404",
+        "status": "Result Declared"
+    },
+    "52": {
+        "name": "Jaggampeta ",
+        "lead": "YSRCP",
+        "leadName": "Jyothula Chanti babu",
+        "ops": "TDP",
+        "opsName": "JYOTHULA NEHRU",
+        "margin": "23365",
+        "status": "Result Declared"
+    },
+    "53": {
+        "name": "Rampachodavaram ",
+        "lead": "YSRCP",
+        "leadName": "NAGULAPALLI DHANALAKSHMI.",
+        "ops": "TDP",
+        "opsName": "VANTHALA RAJESWARI",
+        "margin": "39206",
+        "status": "Result Declared"
+    },
+    "54": {
+        "name": "Kovvur ",
+        "lead": "YSRCP",
+        "leadName": "TANETI VANITA",
+        "ops": "TDP",
+        "opsName": "ANITHA VANGALAPUDI",
+        "margin": "25248",
+        "status": "Result Declared"
+    },
+    "55": {
+        "name": "Nidadavole",
+        "lead": "YSRCP",
+        "leadName": "G. Srinivas Naidu",
+        "ops": "TDP",
+        "opsName": "Burugupalli Sesharao",
+        "margin": "21688",
+        "status": "Result Declared"
+    },
+    "56": {
+        "name": "Achanta",
+        "lead": "YSRCP",
+        "leadName": "CHERUKUVADA SRIRANGANADHA RAJU",
+        "ops": "TDP",
+        "opsName": "SATYANARAYANA PITHANI",
+        "margin": "12886",
+        "status": "Result Declared"
+    },
+    "57": {
+        "name": "Palacole",
+        "lead": "TDP",
+        "leadName": "DR. NIMMALA RAMANAIDU",
+        "ops": "YSRCP",
+        "opsName": "Dr. SATYANARAYANA MURTY CHAVATAPALLI @Dr.BABJI",
+        "margin": "17809",
+        "status": "Result Declared"
+    },
+    "58": {
+        "name": "Narasapuram",
+        "lead": "YSRCP",
+        "leadName": "MUDUNURI PRASADA RAJU",
+        "ops": "JnP",
+        "opsName": "BOMMIDI. NAYAKER",
+        "margin": "6436",
+        "status": "Result Declared"
+    },
+    "59": {
+        "name": "Bhimavaram",
+        "lead": "YSRCP",
+        "leadName": "GRANDHI SRINIVAS",
+        "ops": "JnP",
+        "opsName": "PAWAN KALYAN KONIDALA",
+        "margin": "8357",
+        "status": "Result Declared"
+    },
+    "60": {
+        "name": "Undi",
+        "lead": "TDP",
+        "leadName": "MANTENA RAMARAJU (KALAPUDI RAMBABU)",
+        "ops": "YSRCP",
+        "opsName": "P V L Narasimha Raju",
+        "margin": "10949",
+        "status": "Result Declared"
+    },
+    "61": {
+        "name": "TANUKU",
+        "lead": "YSRCP",
+        "leadName": "KARUMURI VENKATA NAGESWARA RAO",
+        "ops": "TDP",
+        "opsName": "ARIMILLI RADHA KRISHNA",
+        "margin": "2195",
+        "status": "Result Declared"
+    },
+    "62": {
+        "name": "Tadepalligudem",
+        "lead": "YSRCP",
+        "leadName": "KOTTU SATYANARAYANA",
+        "ops": "TDP",
+        "opsName": "ELI VENKATA MADHUSUDHANARAO (Nani)",
+        "margin": "16466",
+        "status": "Result Declared"
+    },
+    "63": {
+        "name": "Unguturu",
+        "lead": "YSRCP",
+        "leadName": "Puppala Srinivasarao (Vasubabu)",
+        "ops": "TDP",
+        "opsName": "Ganni Veeranjaneyulu",
+        "margin": "33153",
+        "status": "Result Declared"
+    },
+    "64": {
+        "name": "Denduluru ",
+        "lead": "YSRCP",
+        "leadName": "ABBAYA CHOWDARY KOTHARI",
+        "ops": "TDP",
+        "opsName": "CHINTHAMANENI PRABHAKAR",
+        "margin": "17459",
+        "status": "Result Declared"
+    },
+    "65": {
+        "name": "Eluru",
+        "lead": "YSRCP",
+        "leadName": "ALLA KALI KRISHNA SRINIVAS (ALLA NANI)",
+        "ops": "TDP",
+        "opsName": "BADETI KOTA RAMA RAO (BUJJI)",
+        "margin": "4072",
+        "status": "Result Declared"
+    },
+    "66": {
+        "name": "Gopalapuram ",
+        "lead": "YSRCP",
+        "leadName": "Venkatrao Talari",
+        "ops": "TDP",
+        "opsName": "Muppidi Venkateswara Rao",
+        "margin": "37461",
+        "status": "Result Declared"
+    },
+    "67": {
+        "name": "Polavaram ",
+        "lead": "YSRCP",
+        "leadName": "TELLAM BALA RAJU",
+        "ops": "TDP",
+        "opsName": "BORAGAM SRINIVASULU",
+        "margin": "42070",
+        "status": "Result Declared"
+    },
+    "68": {
+        "name": "Chintalapudi ",
+        "lead": "YSRCP",
+        "leadName": "VUNNAMATLA RAKADA ELIZA",
+        "ops": "TDP",
+        "opsName": "KARRA RAJARAO",
+        "margin": "36175",
+        "status": "Result Declared"
+    },
+    "69": {
+        "name": "Tiruvuru ",
+        "lead": "YSRCP",
+        "leadName": "Kokkiligadda Rakshana Nidhi",
+        "ops": "TDP",
+        "opsName": "Kothapalli Samuel Jawahar",
+        "margin": "10835",
+        "status": "Result Declared"
+    },
+    "70": {
+        "name": "Nuzvid ",
+        "lead": "YSRCP",
+        "leadName": "Meka Venkata Pratap Apparao",
+        "ops": "TDP",
+        "opsName": "Muddaraboina Venkateswararao.",
+        "margin": "16210",
+        "status": "Result Declared"
+    },
+    "71": {
+        "name": "Gannavaram",
+        "lead": "TDP",
+        "leadName": "Vamsi Vallabhaneni",
+        "ops": "YSRCP",
+        "opsName": "Yarlagadda Venkatrao",
+        "margin": "838",
+        "status": "Result Declared"
+    },
+    "72": {
+        "name": "Gudivada ",
+        "lead": "YSRCP",
+        "leadName": "KODALI SRI VENKATESWARA RAO (NANI)",
+        "ops": "TDP",
+        "opsName": "DEVINENI AVINASH",
+        "margin": "19479",
+        "status": "Result Declared"
+    },
+    "73": {
+        "name": "Kaikalur",
+        "lead": "YSRCP",
+        "leadName": "DULAM NAGESWARA RAO (DNR)",
+        "ops": "TDP",
+        "opsName": "JAYAMANGALA VENKATA RAMANA",
+        "margin": "9357",
+        "status": "Result Declared"
+    },
+    "74": {
+        "name": "Pedana",
+        "lead": "YSRCP",
+        "leadName": "JOGI RAMESH",
+        "ops": "TDP",
+        "opsName": "KAGITHA KRISHNA PRASAD",
+        "margin": "7839",
+        "status": "Result Declared"
+    },
+    "75": {
+        "name": "Machilipatnam",
+        "lead": "YSRCP",
+        "leadName": "PERNI VENKATARAMAIAH (NANI)",
+        "ops": "TDP",
+        "opsName": "KOLLU RAVINDRA",
+        "margin": "5851",
+        "status": "Result Declared"
+    },
+    "76": {
+        "name": "Avanigadda",
+        "lead": "YSRCP",
+        "leadName": "RAMESH BABU SIMHADRI",
+        "ops": "TDP",
+        "opsName": "BUDDHAPRASAD MANDALI",
+        "margin": "20725",
+        "status": "Result Declared"
+    },
+    "77": {
+        "name": "Pamarru ",
+        "lead": "YSRCP",
+        "leadName": "Anil Kumar Kaile",
+        "ops": "TDP",
+        "opsName": "Uppuleti Kalpana",
+        "margin": "30873",
+        "status": "Result Declared"
+    },
+    "78": {
+        "name": "Penamaluru",
+        "lead": "YSRCP",
+        "leadName": "KOLUSU PARTHA SARATHY",
+        "ops": "TDP",
+        "opsName": "Bode Prasad",
+        "margin": "11317",
+        "status": "Result Declared"
+    },
+    "79": {
+        "name": "Vijaywada West",
+        "lead": "YSRCP",
+        "leadName": "Velam Palli Srinivasa Rao",
+        "ops": "TDP",
+        "opsName": "Shabana Musarat Khatoon",
+        "margin": "7671",
+        "status": "Result Declared"
+    },
+    "80": {
+        "name": "Vijayawada central",
+        "lead": "YSRCP",
+        "leadName": "MALLADI VISHNU",
+        "ops": "TDP",
+        "opsName": "BONDA UMAMAHESWARA RAO",
+        "margin": "25",
+        "status": "Result Declared"
+    },
+    "81": {
+        "name": "Vijayawada East",
+        "lead": "TDP",
+        "leadName": "Gadde Rama Mohan",
+        "ops": "YSRCP",
+        "opsName": "Boppana Bhava Kumar",
+        "margin": "15164",
+        "status": "Result Declared"
+    },
+    "82": {
+        "name": "Mylavaram",
+        "lead": "YSRCP",
+        "leadName": "VASANTHA VENKATA KRISHNA PRASAD",
+        "ops": "TDP",
+        "opsName": "UMA MAHESWARARAO DEVINENI",
+        "margin": "12653",
+        "status": "Result Declared"
+    },
+    "83": {
+        "name": "Nandigama ",
+        "lead": "YSRCP",
+        "leadName": "MONDITOKA JAGAN MOHANA RAO",
+        "ops": "TDP",
+        "opsName": "Tangirala Sowmya",
+        "margin": "10881",
+        "status": "Result Declared"
+    },
+    "84": {
+        "name": "Jaggayyapeta",
+        "lead": "YSRCP",
+        "leadName": "UDAYABHANU SAMINENI",
+        "ops": "TDP",
+        "opsName": "RAJAGOPAL SREERAM",
+        "margin": "4778",
+        "status": "Result Declared"
+    },
+    "85": {
+        "name": "Pedakurapadu",
+        "lead": "YSRCP",
+        "leadName": "NAMBURU SANKARA RAO",
+        "ops": "TDP",
+        "opsName": "KOMMALAPATI SRIDHAR",
+        "margin": "14104",
+        "status": "Result Declared"
+    },
+    "86": {
+        "name": "Tadikonda (SC)",
+        "lead": "YSRCP",
+        "leadName": "Vundavalli Sridevi",
+        "ops": "TDP",
+        "opsName": "Tenali Sravan Kumar",
+        "margin": "4433",
+        "status": "Result Declared"
+    },
+    "87": {
+        "name": "Mangalagiri",
+        "lead": "YSRCP",
+        "leadName": "Alla Rama Krishna Reddy (RK)",
+        "ops": "TDP",
+        "opsName": "Nara Lokesh",
+        "margin": "5337",
+        "status": "Result Declared"
+    },
+    "88": {
+        "name": "Ponnur",
+        "lead": "YSRCP",
+        "leadName": "Kilari Venkata Roshaiah",
+        "ops": "TDP",
+        "opsName": "Dhulipalla Narendra Kumar",
+        "margin": "1112",
+        "status": "Result Declared"
+    },
+    "89": {
+        "name": "Vemuru (SC)",
+        "lead": "YSRCP",
+        "leadName": "MERUGU NAGARJUNA",
+        "ops": "TDP",
+        "opsName": "ANANDA BABU NAKKA",
+        "margin": "9999",
+        "status": "Result Declared"
+    },
+    "90": {
+        "name": "Repalle",
+        "lead": "TDP",
+        "leadName": "ANAGANI SATYA PRASAD",
+        "ops": "YSRCP",
+        "opsName": "VENKATA RAMANA RAO MOPIDEVI",
+        "margin": "11555",
+        "status": "Result Declared"
+    },
+    "91": {
+        "name": "Tenali  ",
+        "lead": "YSRCP",
+        "leadName": "ANNABATHUNI SIVA KUMAR",
+        "ops": "TDP",
+        "opsName": "ALAPATI RAJENDRA PRASAD",
+        "margin": "17649",
+        "status": "Result Declared"
+    },
+    "92": {
+        "name": "Bapatla",
+        "lead": "YSRCP",
+        "leadName": "KONA RAGHUPATHI",
+        "ops": "TDP",
+        "opsName": "ANNAM SATISH PRABHAKAR",
+        "margin": "15199",
+        "status": "Result Declared"
+    },
+    "93": {
+        "name": "Prathipadu (SC)",
+        "lead": "YSRCP",
+        "leadName": "Mekathoti Sucharitha",
+        "ops": "TDP",
+        "opsName": "Dokka Manikya Varaprasada Rao",
+        "margin": "7398",
+        "status": "Result Declared"
+    },
+    "94": {
+        "name": "Guntur West",
+        "lead": "TDP",
+        "leadName": "MADDALI GIRIDHARA RAO",
+        "ops": "YSRCP",
+        "opsName": "CHANDRAGIRI YESURATNAM",
+        "margin": "4289",
+        "status": "Result Declared"
+    },
+    "95": {
+        "name": "Guntur East",
+        "lead": "YSRCP",
+        "leadName": "MOHAMMED MUSTAFA SHAIK",
+        "ops": "TDP",
+        "opsName": "MOHAMMED NASEER",
+        "margin": "22091",
+        "status": "Result Declared"
+    },
+    "96": {
+        "name": "Chilakaluripet",
+        "lead": "YSRCP",
+        "leadName": "RAJINI VIDADALA",
+        "ops": "TDP",
+        "opsName": "PRATHIPATI PULLARAO",
+        "margin": "8301",
+        "status": "Result Declared"
+    },
+    "97": {
+        "name": "Narasaraopet",
+        "lead": "YSRCP",
+        "leadName": "GOPIREDDY SRINIVASAREDDY",
+        "ops": "TDP",
+        "opsName": "ARAVINDA BABU CHADALAVADA",
+        "margin": "32277",
+        "status": "Result Declared"
+    },
+    "98": {
+        "name": "Sattenapalli",
+        "lead": "YSRCP",
+        "leadName": "AMBATI RAMBABU",
+        "ops": "TDP",
+        "opsName": "KODELA SIVA PRASADA RAO",
+        "margin": "20876",
+        "status": "Result Declared"
+    },
+    "99": {
+        "name": "Vinukonda",
+        "lead": "YSRCP",
+        "leadName": "Bolla Brahma Naidu",
+        "ops": "TDP",
+        "opsName": "G V Aanzaneyulu",
+        "margin": "28628",
+        "status": "Result Declared"
+    },
+    "100": {
+        "name": "Gurazala",
+        "lead": "YSRCP",
+        "leadName": "KASU MAHESH REDDY",
+        "ops": "TDP",
+        "opsName": "YARAPATHINENI SRINIVASA RAO",
+        "margin": "28613",
+        "status": "Result Declared"
+    },
+    "101": {
+        "name": "Macherla",
+        "lead": "YSRCP",
+        "leadName": "RAMAKRISHNAREDDY PINNELLI.",
+        "ops": "TDP",
+        "opsName": "ANJI REDDY ANNAPUREDDY",
+        "margin": "21918",
+        "status": "Result Declared"
+    },
+    "102": {
+        "name": "Yerragondapalem ",
+        "lead": "YSRCP",
+        "leadName": "Audimulapu Suresh",
+        "ops": "TDP",
+        "opsName": "Budala Ajitha Rao",
+        "margin": "31632",
+        "status": "Result Declared"
+    },
+    "103": {
+        "name": "Darsi",
+        "lead": "YSRCP",
+        "leadName": "Maddisetty Venugopal",
+        "ops": "TDP",
+        "opsName": "Kadiri Babu Rao",
+        "margin": "39057",
+        "status": "Result Declared"
+    },
+    "104": {
+        "name": "Parchur ",
+        "lead": "TDP",
+        "leadName": "YELURI SAMBA SIVARAO",
+        "ops": "YSRCP",
+        "opsName": "DAGGUBATI VENKATESWARA RAO",
+        "margin": "1647",
+        "status": "Result Declared"
+    },
+    "105": {
+        "name": "Addanki ",
+        "lead": "TDP",
+        "leadName": "GOTTIPATI RAVIKUMAR",
+        "ops": "YSRCP",
+        "opsName": "BACHINA CHENCHU GARATAIAH",
+        "margin": "12991",
+        "status": "Result Declared"
+    },
+    "106": {
+        "name": "Chirala",
+        "lead": "TDP",
+        "leadName": "KARANAM BALARAMA KRISHNA MURTHY",
+        "ops": "YSRCP",
+        "opsName": "AMANCHI KRISHNA MOHAN",
+        "margin": "17419",
+        "status": "Result Declared"
+    },
+    "107": {
+        "name": "Santhanuthalapadu ",
+        "lead": "YSRCP",
+        "leadName": "T.J.R. Sudhakar Babu",
+        "ops": "TDP",
+        "opsName": "Vijay Kumar B.N",
+        "margin": "9078",
+        "status": "Result Declared"
+    },
+    "108": {
+        "name": "Ongole",
+        "lead": "YSRCP",
+        "leadName": "BALINENI SRINIVASA REDDY (VASU)",
+        "ops": "TDP",
+        "opsName": "DAMACHARLA JANARDHANA RAO",
+        "margin": "22245",
+        "status": "Result Declared"
+    },
+    "109": {
+        "name": "Kandukur",
+        "lead": "YSRCP",
+        "leadName": "MAHEEDHAR REDDY MANUGUNTA",
+        "ops": "TDP",
+        "opsName": "POTHULA RAMA RAO",
+        "margin": "14936",
+        "status": "Result Declared"
+    },
+    "110": {
+        "name": "Kondapi ",
+        "lead": "TDP",
+        "leadName": "DOCTOR DOLA SREE BALA VEERANJANEYA SWAMY",
+        "ops": "YSRCP",
+        "opsName": "MADASI VENKAIAH",
+        "margin": "1024",
+        "status": "Result Declared"
+    },
+    "111": {
+        "name": "Markapuram",
+        "lead": "YSRCP",
+        "leadName": "Kunduru Nagarjuna Reddy",
+        "ops": "TDP",
+        "opsName": "Kandula Narayana Reddy",
+        "margin": "18667",
+        "status": "Result Declared"
+    },
+    "112": {
+        "name": "Giddalur",
+        "lead": "YSRCP",
+        "leadName": "Anna Rambabu",
+        "ops": "TDP",
+        "opsName": "Ashok Reddy Muthumula",
+        "margin": "81035",
+        "status": "Result Declared"
+    },
+    "113": {
+        "name": "Kanigiri",
+        "lead": "YSRCP",
+        "leadName": "Burra Madhu Sudhan Yadav",
+        "ops": "TDP",
+        "opsName": "Dr. MUKKU UGRA NARASIMHA REDDY",
+        "margin": "40903",
+        "status": "Result Declared"
+    },
+    "114": {
+        "name": "Kavali",
+        "lead": "YSRCP",
+        "leadName": "RAMIREDDY PRATAP KUMAR REDDY",
+        "ops": "TDP",
+        "opsName": "KATAMREDDY VISHNU VARDHAN REDDY",
+        "margin": "14117",
+        "status": "Result Declared"
+    },
+    "115": {
+        "name": "Atmakur",
+        "lead": "YSRCP",
+        "leadName": "MEKAPATI GOUTHAM REDDY",
+        "ops": "TDP",
+        "opsName": "BOLLINENI KRISHNAIAH",
+        "margin": "22276",
+        "status": "Result Declared"
+    },
+    "116": {
+        "name": "Kovur",
+        "lead": "YSRCP",
+        "leadName": "NALLAPAREDDY PRASANNA KUMAR REDDY",
+        "ops": "TDP",
+        "opsName": "POLAMREDDY SRINIVASULU REDDY",
+        "margin": "39891",
+        "status": "Result Declared"
+    },
+    "117": {
+        "name": "Nellore City",
+        "lead": "YSRCP",
+        "leadName": "ANIL KUMAR POLUBOINA",
+        "ops": "TDP",
+        "opsName": "NARAYANA PONGURU",
+        "margin": "1988",
+        "status": "Result Declared"
+    },
+    "118": {
+        "name": "Nellore Rural",
+        "lead": "YSRCP",
+        "leadName": "Kotamreddy Sridhar Reddy",
+        "ops": "TDP",
+        "opsName": "Abdul Aziz Shaik",
+        "margin": "20776",
+        "status": "Result Declared"
+    },
+    "119": {
+        "name": "Sarvepalli",
+        "lead": "YSRCP",
+        "leadName": "KAKANI GOVARDHAN REDDY",
+        "ops": "TDP",
+        "opsName": "CHANDRAMOHAN REDDY SOMIREDDY",
+        "margin": "13973",
+        "status": "Result Declared"
+    },
+    "120": {
+        "name": "Gudur ",
+        "lead": "YSRCP",
+        "leadName": "Velagapalli Varaprasad Rao",
+        "ops": "TDP",
+        "opsName": "Pasim Sunil Kumar",
+        "margin": "45458",
+        "status": "Result Declared"
+    },
+    "121": {
+        "name": "Sullurpeta ",
+        "lead": "YSRCP",
+        "leadName": "Kiliveti Sanjeevaiah",
+        "ops": "TDP",
+        "opsName": "Dr. Parasa Venkata Rathnaiah",
+        "margin": "61292",
+        "status": "Result Declared"
+    },
+    "122": {
+        "name": "Venkatagiri",
+        "lead": "YSRCP",
+        "leadName": "ANAM RAMANARAYANA REDDY",
+        "ops": "TDP",
+        "opsName": "KURUGONDLA RAMAKRISHNA",
+        "margin": "38720",
+        "status": "Result Declared"
+    },
+    "123": {
+        "name": "Udayagiri",
+        "lead": "YSRCP",
+        "leadName": "MEKAPATI CHANDRA SEKHAR REDDY",
+        "ops": "TDP",
+        "opsName": "BOLLINENI VENKATA RAMARAO",
+        "margin": "36528",
+        "status": "Result Declared"
+    },
+    "124": {
+        "name": "Badvel ",
+        "lead": "YSRCP",
+        "leadName": "Dr. G. Venkata Subbaiah",
+        "ops": "TDP",
+        "opsName": "Dr. Obulapuram Raja Sekhar",
+        "margin": "44734",
+        "status": "Result Declared"
+    },
+    "125": {
+        "name": "Rajampet",
+        "lead": "YSRCP",
+        "leadName": "Meda Venkata Mallikarjuna Reddy",
+        "ops": "TDP",
+        "opsName": "Bathyala Changal Rayudu",
+        "margin": "35272",
+        "status": "Result Declared"
+    },
+    "126": {
+        "name": "Kadapa",
+        "lead": "YSRCP",
+        "leadName": "AMZATH BASHA SHAIK BEPARI",
+        "ops": "TDP",
+        "opsName": "AMEER BABU NAWABJAN",
+        "margin": "54794",
+        "status": "Result Declared"
+    },
+    "127": {
+        "name": "Kodur ",
+        "lead": "YSRCP",
+        "leadName": "Koramutla Sreenivasulu",
+        "ops": "TDP",
+        "opsName": "Panthagani Narasimha Prasad",
+        "margin": "34879",
+        "status": "Result Declared"
+    },
+    "128": {
+        "name": "Rayachoti",
+        "lead": "YSRCP",
+        "leadName": "GADIKOTA. SRIKANTH REDDY.",
+        "ops": "TDP",
+        "opsName": "RAMESH KUMAR REDDY REDDAPPAGARI",
+        "margin": "32862",
+        "status": "Result Declared"
+    },
+    "129": {
+        "name": "Pulivendla",
+        "lead": "YSRCP",
+        "leadName": "Y S JAGAN MOHAN REDDY",
+        "ops": "TDP",
+        "opsName": "SATISH REDDY SINGA REDDY",
+        "margin": "90110",
+        "status": "Result Declared"
+    },
+    "130": {
+        "name": "Kamalapuram ",
+        "lead": "YSRCP",
+        "leadName": "POCHIMAREDDY RAVINDRANATH REDDY",
+        "ops": "TDP",
+        "opsName": "NARASIMHA REDDY PUTHA",
+        "margin": "27333",
+        "status": "Result Declared"
+    },
+    "131": {
+        "name": "Jammalamadugu",
+        "lead": "YSRCP",
+        "leadName": "Mule Sudheer Reddy",
+        "ops": "TDP",
+        "opsName": "Rama Subba Reddy Ponnapureddy",
+        "margin": "51641",
+        "status": "Result Declared"
+    },
+    "132": {
+        "name": "Proddatur",
+        "lead": "YSRCP",
+        "leadName": "Rachamallu Siva Prasad Reddy",
+        "ops": "TDP",
+        "opsName": "Mallela Linga Reddy",
+        "margin": "43148",
+        "status": "Result Declared"
+    },
+    "133": {
+        "name": "Mydukur",
+        "lead": "YSRCP",
+        "leadName": "Raghurami Reddy Settipally",
+        "ops": "TDP",
+        "opsName": "Putta Sudhakar Yadav",
+        "margin": "29344",
+        "status": "Result Declared"
+    },
+    "134": {
+        "name": "Allagadda",
+        "lead": "YSRCP",
+        "leadName": "Gangula Brijendra Reddy (Nani)",
+        "ops": "TDP",
+        "opsName": "Akhila Priya Bhuma",
+        "margin": "35613",
+        "status": "Result Declared"
+    },
+    "135": {
+        "name": "Srisailam",
+        "lead": "YSRCP",
+        "leadName": "SILPA CHAKRAPANI REDDY",
+        "ops": "TDP",
+        "opsName": "BUDDA RAJASEKHARA REDDY",
+        "margin": "38698",
+        "status": "Result Declared"
+    },
+    "136": {
+        "name": "Nandikotkur ",
+        "lead": "YSRCP",
+        "leadName": "THOGURU ARTHUR",
+        "ops": "TDP",
+        "opsName": "BANDI JAYARAJU",
+        "margin": "40610",
+        "status": "Result Declared"
+    },
+    "137": {
+        "name": "Kurnool",
+        "lead": "YSRCP",
+        "leadName": "Abdul Hafeez Khan",
+        "ops": "TDP",
+        "opsName": "T.G. Bharath",
+        "margin": "5353",
+        "status": "Result Declared"
+    },
+    "138": {
+        "name": "Panyam",
+        "lead": "YSRCP",
+        "leadName": "KATASANI RAMBHUPAL REDDY",
+        "ops": "TDP",
+        "opsName": "GOWRU CHARITHA REDDY",
+        "margin": "43857",
+        "status": "Result Declared"
+    },
+    "139": {
+        "name": "Nandyal",
+        "lead": "YSRCP",
+        "leadName": "SHILPA RAVI CHANDRA KISHORE REDDY",
+        "ops": "TDP",
+        "opsName": "Bhuma Brahmanandha Reddy",
+        "margin": "34560",
+        "status": "Result Declared"
+    },
+    "140": {
+        "name": "Banaganapalle",
+        "lead": "YSRCP",
+        "leadName": "KATASANI RAMI REDDY",
+        "ops": "TDP",
+        "opsName": "B.C.JANARDHAN REDDY",
+        "margin": "13384",
+        "status": "Result Declared"
+    },
+    "141": {
+        "name": "Dhone",
+        "lead": "YSRCP",
+        "leadName": "Buggana Raja Reddy",
+        "ops": "TDP",
+        "opsName": "Kambalapadu Ediga Prathap",
+        "margin": "35516",
+        "status": "Result Declared"
+    },
+    "142": {
+        "name": "Pattikonda",
+        "lead": "YSRCP",
+        "leadName": "KANGATI SREEDEVI",
+        "ops": "TDP",
+        "opsName": "K E SHYAM KUMAR",
+        "margin": "42065",
+        "status": "Result Declared"
+    },
+    "143": {
+        "name": "Kodumur ",
+        "lead": "YSRCP",
+        "leadName": "JARADODDI SUDHAKAR",
+        "ops": "TDP",
+        "opsName": "BURLA. RAMANJANEYULU",
+        "margin": "36045",
+        "status": "Result Declared"
+    },
+    "144": {
+        "name": "Yemmiganur",
+        "lead": "YSRCP",
+        "leadName": "K CHENNAKESAVA REDDY",
+        "ops": "TDP",
+        "opsName": "B JAYA NAGESWARA REDDY",
+        "margin": "25610",
+        "status": "Result Declared"
+    },
+    "145": {
+        "name": "Mantralayam",
+        "lead": "YSRCP",
+        "leadName": "Y. BALANAGI REDDY",
+        "ops": "TDP",
+        "opsName": "PALAKURTHI THIKKA REDDY",
+        "margin": "23879",
+        "status": "Result Declared"
+    },
+    "146": {
+        "name": "Adoni",
+        "lead": "YSRCP",
+        "leadName": "Y. SAI PRASAD REDDY",
+        "ops": "TDP",
+        "opsName": "KONKA MEENAKSHI NAIDU",
+        "margin": "12319",
+        "status": "Result Declared"
+    },
+    "147": {
+        "name": "Alur",
+        "lead": "YSRCP",
+        "leadName": "Gummanur Jayaram",
+        "ops": "TDP",
+        "opsName": "Kotla Sujathamma",
+        "margin": "39896",
+        "status": "Result Declared"
+    },
+    "148": {
+        "name": "Rayadurg",
+        "lead": "YSRCP",
+        "leadName": "KAPU RAMACHANDRA REDDY",
+        "ops": "TDP",
+        "opsName": "KALAVA SRINIVASULU",
+        "margin": "14049",
+        "status": "Result Declared"
+    },
+    "149": {
+        "name": "Uravakonda",
+        "lead": "TDP",
+        "leadName": "PAYYAVULA KESHAV",
+        "ops": "YSRCP",
+        "opsName": "Y.VISWESWARA REDDY",
+        "margin": "2132",
+        "status": "Result Declared"
+    },
+    "150": {
+        "name": "Guntakal",
+        "lead": "YSRCP",
+        "leadName": "Y. VENKATARAMA REDDY",
+        "ops": "TDP",
+        "opsName": "R Jitendra Gowd",
+        "margin": "48532",
+        "status": "Result Declared"
+    },
+    "151": {
+        "name": "Tadipatri",
+        "lead": "YSRCP",
+        "leadName": "K. PEDDA REDDY",
+        "ops": "TDP",
+        "opsName": "ASHMIT REDDY.J.C.",
+        "margin": "7511",
+        "status": "Result Declared"
+    },
+    "152": {
+        "name": "Singanamala ",
+        "lead": "YSRCP",
+        "leadName": "Padmavathy Jonnalagadda",
+        "ops": "TDP",
+        "opsName": "Bandaru Sravani Sree",
+        "margin": "46242",
+        "status": "Result Declared"
+    },
+    "153": {
+        "name": "Anantapur urban",
+        "lead": "YSRCP",
+        "leadName": "ANANTHA VENKATARAMI REDDY",
+        "ops": "TDP",
+        "opsName": "PRABHAKAR CHOWDARY .V",
+        "margin": "28698",
+        "status": "Result Declared"
+    },
+    "154": {
+        "name": "KALYANDURG",
+        "lead": "YSRCP",
+        "leadName": "K.V. Usha Sricharan",
+        "ops": "TDP",
+        "opsName": "Umamaheswara Naidu Madineni",
+        "margin": "19896",
+        "status": "Result Declared"
+    },
+    "155": {
+        "name": "Raptadu",
+        "lead": "YSRCP",
+        "leadName": "Thopudurthi Prakash Reddy",
+        "ops": "TDP",
+        "opsName": "Paritala Sreeram",
+        "margin": "25575",
+        "status": "Result Declared"
+    },
+    "156": {
+        "name": "Madakasira ",
+        "lead": "YSRCP",
+        "leadName": "M THIPPESWAMY",
+        "ops": "TDP",
+        "opsName": "K ERANNA",
+        "margin": "13136",
+        "status": "Result Declared"
+    },
+    "157": {
+        "name": "Hindupur",
+        "lead": "TDP",
+        "leadName": "Nandamuri Balakrishna",
+        "ops": "YSRCP",
+        "opsName": "SHAIK MOHAMMED IQBAL",
+        "margin": "17028",
+        "status": "Result Declared"
+    },
+    "158": {
+        "name": "Penukonda",
+        "lead": "YSRCP",
+        "leadName": "MALAGUNDLA SANKARANARAYANA",
+        "ops": "TDP",
+        "opsName": "B.K.PARTHASARATHI",
+        "margin": "15058",
+        "status": "Result Declared"
+    },
+    "159": {
+        "name": "Puttaparthi",
+        "lead": "YSRCP",
+        "leadName": "DUDDUKUNTA SREEDHAR REDDY",
+        "ops": "TDP",
+        "opsName": "PALLE.RAGHUNATHA REDDY",
+        "margin": "31255",
+        "status": "Result Declared"
+    },
+    "160": {
+        "name": "Dharmavaram",
+        "lead": "YSRCP",
+        "leadName": "KETHIREDDY VENKATARAMI REDDY",
+        "ops": "TDP",
+        "opsName": "GONUGUNTLA SURYANARAYANA",
+        "margin": "15666",
+        "status": "Result Declared"
+    },
+    "161": {
+        "name": "Kadiri",
+        "lead": "YSRCP",
+        "leadName": "P.V. SIDDA REDDY",
+        "ops": "TDP",
+        "opsName": "KANDIKUNTA VENKATA PRASAD",
+        "margin": "27243",
+        "status": "Result Declared"
+    },
+    "162": {
+        "name": "Thamballapalle",
+        "lead": "YSRCP",
+        "leadName": "PEDDIREDDY DWARAKANATHA REDDY",
+        "ops": "TDP",
+        "opsName": "GULLOLA SHANKAR",
+        "margin": "46938",
+        "status": "Result Declared"
+    },
+    "163": {
+        "name": "Pileru",
+        "lead": "YSRCP",
+        "leadName": "CHINTHALA RAMACHANDRA REDDY",
+        "ops": "TDP",
+        "opsName": "NALLARI KISHAN KUMAR REDDY",
+        "margin": "7874",
+        "status": "Result Declared"
+    },
+    "164": {
+        "name": "Madanapalle",
+        "lead": "YSRCP",
+        "leadName": "M. Nawaz Basha",
+        "ops": "TDP",
+        "opsName": "Dommalapati Ramesh",
+        "margin": "29648",
+        "status": "Result Declared"
+    },
+    "165": {
+        "name": "Punganur",
+        "lead": "YSRCP",
+        "leadName": "PEDDIREDDI RAMACHANDRA REDDY",
+        "ops": "TDP",
+        "opsName": "N.ANESHA REDDY",
+        "margin": "43555",
+        "status": "Result Declared"
+    },
+    "166": {
+        "name": "Chandragiri",
+        "lead": "YSRCP",
+        "leadName": "Dr.CHEVIREDDY BHASKAR REDDY",
+        "ops": "TDP",
+        "opsName": "PULLIVARTHI VENKATA MANI PRASAD @NANI",
+        "margin": "41755",
+        "status": "Result Declared"
+    },
+    "167": {
+        "name": "Tirupati",
+        "lead": "YSRCP",
+        "leadName": "BHUMANA KARUNAKAR REDDY",
+        "ops": "TDP",
+        "opsName": "M SUGUNA",
+        "margin": "708",
+        "status": "Result Declared"
+    },
+    "168": {
+        "name": "Srikalahasti",
+        "lead": "YSRCP",
+        "leadName": "Biyyapu Madhusudhan Reddy",
+        "ops": "TDP",
+        "opsName": "Bojjala Venkata Sudhir Reddy",
+        "margin": "38141",
+        "status": "Result Declared"
+    },
+    "169": {
+        "name": "Satyavedu ",
+        "lead": "YSRCP",
+        "leadName": "Adimulam Koneti",
+        "ops": "TDP",
+        "opsName": "Jadda Rajasekhar",
+        "margin": "44744",
+        "status": "Result Declared"
+    },
+    "170": {
+        "name": "Nagari",
+        "lead": "YSRCP",
+        "leadName": "R.K. ROJA",
+        "ops": "TDP",
+        "opsName": "GALI BHANU PRAKASH",
+        "margin": "2708",
+        "status": "Result Declared"
+    },
+    "171": {
+        "name": "Gangadhara Nellore",
+        "lead": "YSRCP",
+        "leadName": "K. NARAYANA SWAMY",
+        "ops": "TDP",
+        "opsName": "ANAGANTI HARIKRISHNA",
+        "margin": "45594",
+        "status": "Result Declared"
+    },
+    "172": {
+        "name": "Chittoor",
+        "lead": "YSRCP",
+        "leadName": "Aranii Srenevasulu (Jangalapalli)",
+        "ops": "TDP",
+        "opsName": "A. S. Manohar",
+        "margin": "39968",
+        "status": "Result Declared"
+    },
+    "173": {
+        "name": "Puthalapattu ",
+        "lead": "YSRCP",
+        "leadName": "M. BABU",
+        "ops": "TDP",
+        "opsName": "LALITHA KUMARI",
+        "margin": "29163",
+        "status": "Result Declared"
+    },
+    "174": {
+        "name": "Palamaner",
+        "lead": "YSRCP",
+        "leadName": "N VENKATE GOWDA",
+        "ops": "TDP",
+        "opsName": "AMARNATHA REDDY. N",
+        "margin": "31616",
+        "status": "Result Declared"
+    },
+    "175": {
+        "name": "Kuppam",
+        "lead": "TDP",
+        "leadName": "Nara Chandra Babu Naidu",
+        "ops": "YSRCP",
+        "opsName": "Krishna Chandra Mouli",
+        "margin": "30722",
+        "status": "Result Declared"
+    }
+}

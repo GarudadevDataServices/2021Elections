@@ -1,0 +1,2018 @@
+{
+    "1": {
+        "name": "Nippani",
+        "lead": "BJP",
+        "leadName": "Shashikala Annasaheb Jolle",
+        "ops": "INC",
+        "opsName": "Kakaso Pandurang Patil",
+        "margin": "8506",
+        "status": "Result Declared"
+    },
+    "2": {
+        "name": "Chikkodi-Sadalga",
+        "lead": "INC",
+        "leadName": "Ganesh Hukkeri",
+        "ops": "BJP",
+        "opsName": "Annasaheb Jolle",
+        "margin": "10569",
+        "status": "Result Declared"
+    },
+    "3": {
+        "name": "Athani",
+        "lead": "INC",
+        "leadName": "Mahesh Kumathalli",
+        "ops": "BJP",
+        "opsName": "Laxman Savadi",
+        "margin": "2331",
+        "status": "Result Declared"
+    },
+    "4": {
+        "name": "Kagwad",
+        "lead": "INC",
+        "leadName": "Srimant Patil",
+        "ops": "BJP",
+        "opsName": "Bharamagouda Alagouda Kage",
+        "margin": "32942",
+        "status": "Result Declared"
+    },
+    "5": {
+        "name": "Kudachi",
+        "lead": "BJP",
+        "leadName": "P. Rajeev",
+        "ops": "INC",
+        "opsName": "Amit Shama Ghatage",
+        "margin": "15008",
+        "status": "Result Declared"
+    },
+    "6": {
+        "name": "Raibag",
+        "lead": "BJP",
+        "leadName": "Duryodhan Mahalingappa Aihole",
+        "ops": "INC",
+        "opsName": "Pradeepkumar Ramu Malage",
+        "margin": "16548",
+        "status": "Result Declared"
+    },
+    "7": {
+        "name": "Hukkeri",
+        "lead": "BJP",
+        "leadName": "Umesh Katti",
+        "ops": "INC",
+        "opsName": "Appayyagouda Basagouda Patil",
+        "margin": "15385",
+        "status": "Result Declared"
+    },
+    "8": {
+        "name": "Arabhavi",
+        "lead": "BJP",
+        "leadName": "Balachandra Jarkiholi",
+        "ops": "JD(S)",
+        "opsName": "Bhimappa Gundappa Gadad",
+        "margin": "47328",
+        "status": "Result Declared"
+    },
+    "9": {
+        "name": "Gokak",
+        "lead": "INC",
+        "leadName": "Ramesh Jarkiholi",
+        "ops": "BJP",
+        "opsName": "Ashok Ningayyaswami Pujari",
+        "margin": "14280",
+        "status": "Result Declared"
+    },
+    "10": {
+        "name": "Yemkanmardi",
+        "lead": "INC",
+        "leadName": "Satish Jarkiholi",
+        "ops": "BJP",
+        "opsName": "Astagi Maruti Mallappa",
+        "margin": "2850",
+        "status": "Result Declared"
+    },
+    "11": {
+        "name": "Belgaum Uttar",
+        "lead": "BJP",
+        "leadName": "Anil S Benake",
+        "ops": "INC",
+        "opsName": "Fairoz Nuruddin Saith",
+        "margin": "17267",
+        "status": "Result Declared"
+    },
+    "12": {
+        "name": "Belgaum Dakshin",
+        "lead": "BJP",
+        "leadName": "Abhay Patil",
+        "ops": "INC",
+        "opsName": "M. D. Lakshminarayana",
+        "margin": "58692",
+        "status": "Result Declared"
+    },
+    "13": {
+        "name": "Belgaum Rural",
+        "lead": "INC",
+        "leadName": "Lakshmi Hebbalkar",
+        "ops": "BJP",
+        "opsName": "Sanjay Patil",
+        "margin": "51724",
+        "status": "Result Declared"
+    },
+    "14": {
+        "name": "Khanapur",
+        "lead": "INC",
+        "leadName": "Dr. Anjali Nimbalkar",
+        "ops": "BJP",
+        "opsName": "Vithal Halagekar",
+        "margin": "5133",
+        "status": "Result Declared"
+    },
+    "15": {
+        "name": "Kittur",
+        "lead": "BJP",
+        "leadName": "D. M. Basavantaray",
+        "ops": "INC",
+        "opsName": "Inamdar Danappagouda Basanagouda",
+        "margin": "32862",
+        "status": "Result Declared"
+    },
+    "16": {
+        "name": "Bailhongal",
+        "lead": "INC",
+        "leadName": "Mahantesh Kaujlagi",
+        "ops": "Independent",
+        "opsName": "Jagdish Metgud",
+        "margin": "5122",
+        "status": "Result Declared"
+    },
+    "17": {
+        "name": "Saundatti Yellamma",
+        "lead": "BJP",
+        "leadName": "Mamani Vishwanath Chandrashekar",
+        "ops": "Independent",
+        "opsName": "Anand Chopra",
+        "margin": "6291",
+        "status": "Result Declared"
+    },
+    "18": {
+        "name": "Ramdurg",
+        "lead": "BJP",
+        "leadName": "Mahadevappa Shivalingappa Yadawad",
+        "ops": "INC",
+        "opsName": "Ashok Mahadevappa Pattan",
+        "margin": "2875",
+        "status": "Result Declared"
+    },
+    "19": {
+        "name": "Mudhol",
+        "lead": "BJP",
+        "leadName": "Govind M. Karjol",
+        "ops": "INC",
+        "opsName": "Bandiwaddar Satish Chinnappa",
+        "margin": "15482",
+        "status": "Result Declared"
+    },
+    "20": {
+        "name": "Terdal",
+        "lead": "BJP",
+        "leadName": "Siddu Savadi",
+        "ops": "INC",
+        "opsName": "Umashree",
+        "margin": "21113",
+        "status": "Result Declared"
+    },
+    "21": {
+        "name": "Jamkhandi",
+        "lead": "INC",
+        "leadName": "Anand Nyamagouda",
+        "ops": "BJP",
+        "opsName": "Shrikant Subrao Kulkarni",
+        "margin": "2795",
+        "status": "Result Declared"
+    },
+    "22": {
+        "name": "Bilgi",
+        "lead": "BJP",
+        "leadName": "Murugesh Nirani",
+        "ops": "INC",
+        "opsName": "J. T. Patil",
+        "margin": "4811",
+        "status": "Result Declared"
+    },
+    "23": {
+        "name": "Badami",
+        "lead": "INC",
+        "leadName": "Siddaramaiah",
+        "ops": "BJP",
+        "opsName": "B. Sriramulu",
+        "margin": "1696",
+        "status": "Result Declared"
+    },
+    "24": {
+        "name": "Bagalkot",
+        "lead": "BJP",
+        "leadName": "Veerabhadrayya Charantimath",
+        "ops": "INC",
+        "opsName": "H. Y. Meti",
+        "margin": "15934",
+        "status": "Result Declared"
+    },
+    "25": {
+        "name": "Hungund",
+        "lead": "BJP",
+        "leadName": "Doddanagowda Patil",
+        "ops": "INC",
+        "opsName": "Kashappanavar Vijayanand Shivashankrappa",
+        "margin": "5227",
+        "status": "Result Declared"
+    },
+    "26": {
+        "name": "Muddebihal",
+        "lead": "BJP",
+        "leadName": "Ameenappa Gouda S Patil (Nadahalli)",
+        "ops": "INC",
+        "opsName": "C. S. Nadagouda",
+        "margin": "8633",
+        "status": "Result Declared"
+    },
+    "27": {
+        "name": "Devar Hippargi",
+        "lead": "BJP",
+        "leadName": "Somanagouda B Patil (Sasanur)",
+        "ops": "JD(S)",
+        "opsName": "Bhimanagouda (Rajugouda) B Patil",
+        "margin": "3353",
+        "status": "Result Declared"
+    },
+    "28": {
+        "name": "Basavana Bagevadi",
+        "lead": "INC",
+        "leadName": "Shivanand Patil",
+        "ops": "JD(S)",
+        "opsName": "Somanagouda(Appugouda) B Patil(Managuli)",
+        "margin": "3186",
+        "status": "Result Declared"
+    },
+    "29": {
+        "name": "Babaleshwar",
+        "lead": "INC",
+        "leadName": "M. B. Patil",
+        "ops": "BJP",
+        "opsName": "Vijayakumar Sidramgouda Patil",
+        "margin": "29715",
+        "status": "Result Declared"
+    },
+    "30": {
+        "name": "Bijapur City",
+        "lead": "BJP",
+        "leadName": "Basangouda Patil Yatnal",
+        "ops": "INC",
+        "opsName": "Abdul Hameed Mushrif",
+        "margin": "6413",
+        "status": "Result Declared"
+    },
+    "31": {
+        "name": "Nagathan",
+        "lead": "JD(S)",
+        "leadName": "Devanand Fulasing Chavan",
+        "ops": "INC",
+        "opsName": "Katakadond Vittal Dondiba",
+        "margin": "5601",
+        "status": "Result Declared"
+    },
+    "32": {
+        "name": "Indi",
+        "lead": "INC",
+        "leadName": "Y. V. Patil",
+        "ops": "JD(S)",
+        "opsName": "B. D. Patil Hanjagi",
+        "margin": "9938",
+        "status": "Result Declared"
+    },
+    "33": {
+        "name": "Sindgi",
+        "lead": "JD(S)",
+        "leadName": "M. C. Managuli",
+        "ops": "BJP",
+        "opsName": "Bhusanur Ramesh Balappa",
+        "margin": "9305",
+        "status": "Result Declared"
+    },
+    "34": {
+        "name": "Afzalpur",
+        "lead": "INC",
+        "leadName": "M. Y. Patil",
+        "ops": "BJP",
+        "opsName": "Malikayya Guttedar",
+        "margin": "10594",
+        "status": "Result Declared"
+    },
+    "35": {
+        "name": "Jevargi",
+        "lead": "INC",
+        "leadName": "Ajay Dharam Singh",
+        "ops": "BJP",
+        "opsName": "Doddappa Gouda S. Patil Naribol",
+        "margin": "16056",
+        "status": "Result Declared"
+    },
+    "36": {
+        "name": "Shorapur",
+        "lead": "BJP",
+        "leadName": "Narasimhanayak (Rajugouda)",
+        "ops": "INC",
+        "opsName": "Raja Venkatappa Naik",
+        "margin": "22568",
+        "status": "Result Declared"
+    },
+    "37": {
+        "name": "Shahapur",
+        "lead": "INC",
+        "leadName": "Sharanabasappa Gouda Darshanapur",
+        "ops": "BJP",
+        "opsName": "Guru Patil Sirwal",
+        "margin": "30974",
+        "status": "Result Declared"
+    },
+    "38": {
+        "name": "Yadgir",
+        "lead": "BJP",
+        "leadName": "Venkatreddy Mudnal",
+        "ops": "INC",
+        "opsName": "Dr. A. B. Malaka Reddy",
+        "margin": "12881",
+        "status": "Result Declared"
+    },
+    "39": {
+        "name": "Gurmitkal",
+        "lead": "JD(S)",
+        "leadName": "Nagangouda Kandkur",
+        "ops": "INC",
+        "opsName": "Baburao Chinchansur",
+        "margin": "24480",
+        "status": "Result Declared"
+    },
+    "40": {
+        "name": "Chittapur",
+        "lead": "INC",
+        "leadName": "Priyank M. Kharge",
+        "ops": "BJP",
+        "opsName": "Valmik Naik",
+        "margin": "4393",
+        "status": "Result Declared"
+    },
+    "41": {
+        "name": "Sedam",
+        "lead": "BJP",
+        "leadName": "Rajkumar Patil",
+        "ops": "INC",
+        "opsName": "Dr. Sharan Prakash Rudrappa Patil",
+        "margin": "7200",
+        "status": "Result Declared"
+    },
+    "42": {
+        "name": "Chincholi",
+        "lead": "INC",
+        "leadName": "Dr. Umesh G. Jadhav",
+        "ops": "BJP",
+        "opsName": "Sunil Vallyapure",
+        "margin": "19212",
+        "status": "Result Declared"
+    },
+    "43": {
+        "name": "Gulbarga Rural",
+        "lead": "BJP",
+        "leadName": "Basawaraj Mattimud",
+        "ops": "INC",
+        "opsName": "Vijaykumar G. Ramakrishna",
+        "margin": "12386",
+        "status": "Result Declared"
+    },
+    "44": {
+        "name": "Gulbarga Dakshin",
+        "lead": "BJP",
+        "leadName": "Dattatraya C. Patil Revoor",
+        "ops": "INC",
+        "opsName": "Allamprabhu Patil",
+        "margin": "5431",
+        "status": "Result Declared"
+    },
+    "45": {
+        "name": "Gulbarga Uttar",
+        "lead": "INC",
+        "leadName": "Kaneez Fathima",
+        "ops": "BJP",
+        "opsName": "Chandrakant B. Patil",
+        "margin": "5940",
+        "status": "Result Declared"
+    },
+    "46": {
+        "name": "Aland",
+        "lead": "BJP",
+        "leadName": "Guttedar Subhash Rukmayya",
+        "ops": "INC",
+        "opsName": "B. R. Patil",
+        "margin": "697",
+        "status": "Result Declared"
+    },
+    "47": {
+        "name": "Basavakalyan",
+        "lead": "INC",
+        "leadName": "B. Narayan Rao",
+        "ops": "BJP",
+        "opsName": "Mallikarjun Khuba",
+        "margin": "17272",
+        "status": "Result Declared"
+    },
+    "48": {
+        "name": "Humnabad",
+        "lead": "INC",
+        "leadName": "Rajshekar Basavaraj Patil",
+        "ops": "BJP",
+        "opsName": "Subhash",
+        "margin": "31814",
+        "status": "Result Declared"
+    },
+    "49": {
+        "name": "Bidar South",
+        "lead": "JD(S)",
+        "leadName": "Bandeppa Kashempur",
+        "ops": "BJP",
+        "opsName": "Dr. Shailendra Beldale",
+        "margin": "12742",
+        "status": "Result Declared"
+    },
+    "50": {
+        "name": "Bidar",
+        "lead": "INC",
+        "leadName": "Rahim Khan",
+        "ops": "BJP",
+        "opsName": "Surayakanth Nagmarpalli",
+        "margin": "10245",
+        "status": "Result Declared"
+    },
+    "51": {
+        "name": "Bhalki",
+        "lead": "INC",
+        "leadName": "Eshwara Khandre",
+        "ops": "BJP",
+        "opsName": "D. K. Sidram",
+        "margin": "21438",
+        "status": "Result Declared"
+    },
+    "52": {
+        "name": "Aurad",
+        "lead": "BJP",
+        "leadName": "Prabhu Chauhan",
+        "ops": "INC",
+        "opsName": "Vijaykumar",
+        "margin": "10592",
+        "status": "Result Declared"
+    },
+    "53": {
+        "name": "Raichur Rural",
+        "lead": "INC",
+        "leadName": "Basanagouda Daddal",
+        "ops": "BJP",
+        "opsName": "Tipparaju Hawaldar",
+        "margin": "9964",
+        "status": "Result Declared"
+    },
+    "54": {
+        "name": "Raichur",
+        "lead": "BJP",
+        "leadName": "Dr. Shivaraj Patil",
+        "ops": "INC",
+        "opsName": "Syed Yaseen",
+        "margin": "10991",
+        "status": "Result Declared"
+    },
+    "55": {
+        "name": "Manvi",
+        "lead": "JD(S)",
+        "leadName": "Raja Venkatappa Nayak",
+        "ops": "Independent",
+        "opsName": "Dr. Tanusree Preeti",
+        "margin": "15815",
+        "status": "Result Declared"
+    },
+    "56": {
+        "name": "Devadurga",
+        "lead": "BJP",
+        "leadName": "Shivanagouda Naik",
+        "ops": "INC",
+        "opsName": "A. Rajashekar Nayak",
+        "margin": "21045",
+        "status": "Result Declared"
+    },
+    "57": {
+        "name": "Lingsugur",
+        "lead": "INC",
+        "leadName": "D. S. Hoolageri",
+        "ops": "JD(S)",
+        "opsName": "Bandi Siddu",
+        "margin": "4946",
+        "status": "Result Declared"
+    },
+    "58": {
+        "name": "Sindhanur",
+        "lead": "JD(S)",
+        "leadName": "Venkatrao Nadagouda",
+        "ops": "INC",
+        "opsName": "Badarli Hampangouda",
+        "margin": "1597",
+        "status": "Result Declared"
+    },
+    "59": {
+        "name": "Maski",
+        "lead": "INC",
+        "leadName": "Pratap Gowda Patil",
+        "ops": "BJP",
+        "opsName": "Basanagowda Turvihal",
+        "margin": "213",
+        "status": "Result Declared"
+    },
+    "60": {
+        "name": "Kushtagi",
+        "lead": "INC",
+        "leadName": "Amaregowda Bayyapur",
+        "ops": "BJP",
+        "opsName": "Doddanagouda Hanamagouda Patil",
+        "margin": "18031",
+        "status": "Result Declared"
+    },
+    "61": {
+        "name": "Kanakagiri",
+        "lead": "BJP",
+        "leadName": "Basavaraj Dadesugur",
+        "ops": "INC",
+        "opsName": "Shivaraj Sangappa Tangadagi",
+        "margin": "14225",
+        "status": "Result Declared"
+    },
+    "62": {
+        "name": "Gangawati",
+        "lead": "BJP",
+        "leadName": "Paranna Eshwarappa Munavalli",
+        "ops": "INC",
+        "opsName": "Iqbal Ansari",
+        "margin": "7973",
+        "status": "Result Declared"
+    },
+    "63": {
+        "name": "Yelburga",
+        "lead": "BJP",
+        "leadName": "Halappa Achar",
+        "ops": "INC",
+        "opsName": "Basavaraj Rayareddy",
+        "margin": "13318",
+        "status": "Result Declared"
+    },
+    "64": {
+        "name": "Koppal",
+        "lead": "INC",
+        "leadName": "K. Raghavendra Hitnal",
+        "ops": "BJP",
+        "opsName": "Amaresh Sanganna Karadi",
+        "margin": "26351",
+        "status": "Result Declared"
+    },
+    "65": {
+        "name": "Shirahatti",
+        "lead": "BJP",
+        "leadName": "Ramappa Lamani",
+        "ops": "INC",
+        "opsName": "Doddamani Ramakrishna Shidlingappa",
+        "margin": "29993",
+        "status": "Result Declared"
+    },
+    "66": {
+        "name": "Gadag",
+        "lead": "INC",
+        "leadName": "H. K. Patil",
+        "ops": "BJP",
+        "opsName": "Anil Mensinakai",
+        "margin": "1868",
+        "status": "Result Declared"
+    },
+    "67": {
+        "name": "Ron",
+        "lead": "BJP",
+        "leadName": "Kalakappa Bandi",
+        "ops": "INC",
+        "opsName": "Gurupadagouda Patil",
+        "margin": "7334",
+        "status": "Result Declared"
+    },
+    "68": {
+        "name": "Nargund",
+        "lead": "BJP",
+        "leadName": "C. C. Patil",
+        "ops": "INC",
+        "opsName": "B. R. Yavagal",
+        "margin": "7979",
+        "status": "Result Declared"
+    },
+    "69": {
+        "name": "Navalgund",
+        "lead": "BJP",
+        "leadName": "Shankar Patil Munenakoppa",
+        "ops": "JD(S)",
+        "opsName": "N. H. Konaraddi",
+        "margin": "20521",
+        "status": "Result Declared"
+    },
+    "70": {
+        "name": "Kundgol",
+        "lead": "INC",
+        "leadName": "C. S. Shivalli",
+        "ops": "BJP",
+        "opsName": "Chikkanagoudra Siddanagoud Ishwaragod",
+        "margin": "634",
+        "status": "Result Declared"
+    },
+    "71": {
+        "name": "Dharwad",
+        "lead": "BJP",
+        "leadName": "Amrut Ayyappa Desai",
+        "ops": "INC",
+        "opsName": "Vinay Kulkarni",
+        "margin": "20340",
+        "status": "Result Declared"
+    },
+    "72": {
+        "name": "Hubli-Dharwad East",
+        "lead": "INC",
+        "leadName": "Abbayya Prasad",
+        "ops": "BJP",
+        "opsName": "Chandrashekar Gokak",
+        "margin": "21467",
+        "status": "Result Declared"
+    },
+    "73": {
+        "name": "Hubli-Dharwad Central",
+        "lead": "BJP",
+        "leadName": "Jagadish Shettar",
+        "ops": "INC",
+        "opsName": "Dr. Mahesh Nalwad",
+        "margin": "21306",
+        "status": "Result Declared"
+    },
+    "74": {
+        "name": "Hubli-Dharwad West",
+        "lead": "BJP",
+        "leadName": "Aravind Bellad",
+        "ops": "INC",
+        "opsName": "Mohammad Ismail Tamatgar",
+        "margin": "40487",
+        "status": "Result Declared"
+    },
+    "75": {
+        "name": "Kalghatgi",
+        "lead": "BJP",
+        "leadName": "C. M. Nimbannavar",
+        "ops": "INC",
+        "opsName": "Santosh Lad",
+        "margin": "25997",
+        "status": "Result Declared"
+    },
+    "76": {
+        "name": "Haliyal",
+        "lead": "INC",
+        "leadName": "R. V. Deshapande",
+        "ops": "BJP",
+        "opsName": "Sunil Hegade",
+        "margin": "5140",
+        "status": "Result Declared"
+    },
+    "77": {
+        "name": "Karwar",
+        "lead": "BJP",
+        "leadName": "Roopali Naik",
+        "ops": "JD(S)",
+        "opsName": "Anand Vasant Asnotikar",
+        "margin": "14064",
+        "status": "Result Declared"
+    },
+    "78": {
+        "name": "Kumta",
+        "lead": "BJP",
+        "leadName": "Dinakar Keshav Shetty",
+        "ops": "INC",
+        "opsName": "Sharada Mohan Shetty",
+        "margin": "32750",
+        "status": "Result Declared"
+    },
+    "79": {
+        "name": "Bhatkal",
+        "lead": "BJP",
+        "leadName": "Sunil Biliya Naik",
+        "ops": "INC",
+        "opsName": "Mankal Vaidya",
+        "margin": "5930",
+        "status": "Result Declared"
+    },
+    "80": {
+        "name": "Sirsi",
+        "lead": "BJP",
+        "leadName": "Vishweshwar Hegde Kageri",
+        "ops": "INC",
+        "opsName": "Bhimanna Naik",
+        "margin": "17461",
+        "status": "Result Declared"
+    },
+    "81": {
+        "name": "Yellapur",
+        "lead": "INC",
+        "leadName": "Arbail Shivaram Hebbar",
+        "ops": "BJP",
+        "opsName": "Andalagi Veerabhadragouda Shivanagouda Patil",
+        "margin": "1483",
+        "status": "Result Declared"
+    },
+    "82": {
+        "name": "Hangal",
+        "lead": "BJP",
+        "leadName": "C. M. Udasi",
+        "ops": "INC",
+        "opsName": "Mane Srinivas",
+        "margin": "6514",
+        "status": "Result Declared"
+    },
+    "83": {
+        "name": "Shiggaon",
+        "lead": "BJP",
+        "leadName": "Basavaraj Bommai",
+        "ops": "INC",
+        "opsName": "Sayed Azeempeer Khadri",
+        "margin": "9265",
+        "status": "Result Declared"
+    },
+    "84": {
+        "name": "Haveri",
+        "lead": "BJP",
+        "leadName": "Neharu Olekar",
+        "ops": "INC",
+        "opsName": "Rudrappa Lamani",
+        "margin": "11304",
+        "status": "Result Declared"
+    },
+    "85": {
+        "name": "Byadgi",
+        "lead": "BJP",
+        "leadName": "Ballary Virupakshappa Rudrappa",
+        "ops": "INC",
+        "opsName": "S. R. Patil",
+        "margin": "21271",
+        "status": "Result Declared"
+    },
+    "86": {
+        "name": "Hirekerur",
+        "lead": "INC",
+        "leadName": "B. C. Patil",
+        "ops": "BJP",
+        "opsName": "Ujaneshwara Banakar",
+        "margin": "555",
+        "status": "Result Declared"
+    },
+    "87": {
+        "name": "Ranebennur",
+        "lead": "KPJP",
+        "leadName": "R. Shankar",
+        "ops": "INC",
+        "opsName": "K. B. Koliwad",
+        "margin": "4338",
+        "status": "Result Declared"
+    },
+    "88": {
+        "name": "Hadagalli",
+        "lead": "INC",
+        "leadName": "P. T. Parameshwara Naik",
+        "ops": "Independent",
+        "opsName": "Odo Gangappa",
+        "margin": "9178",
+        "status": "Result Declared"
+    },
+    "89": {
+        "name": "Hagaribommanahalli",
+        "lead": "INC",
+        "leadName": "L. B. P. Bheema Naik",
+        "ops": "BJP",
+        "opsName": "K.Nemiraja Naik",
+        "margin": "7232",
+        "status": "Result Declared"
+    },
+    "90": {
+        "name": "Vijayanagara",
+        "lead": "INC",
+        "leadName": "Anand Singh",
+        "ops": "BJP",
+        "opsName": "H. R. Gaviyappa",
+        "margin": "8228",
+        "status": "Result Declared"
+    },
+    "91": {
+        "name": "Kampli",
+        "lead": "INC",
+        "leadName": "J.N. Ganesh",
+        "ops": "BJP",
+        "opsName": "T H Suresh Babu",
+        "margin": "5555",
+        "status": "Result Declared"
+    },
+    "92": {
+        "name": "Siruguppa",
+        "lead": "BJP",
+        "leadName": "M. S. Somalingappa",
+        "ops": "INC",
+        "opsName": "B. Murali Krishna",
+        "margin": "21271",
+        "status": "Result Declared"
+    },
+    "93": {
+        "name": "Bellary",
+        "lead": "INC",
+        "leadName": "B. Nagendra",
+        "ops": "BJP",
+        "opsName": "Sanna Pakkirappa",
+        "margin": "2679",
+        "status": "Result Declared"
+    },
+    "94": {
+        "name": "Bellary City",
+        "lead": "BJP",
+        "leadName": "G. Somashekara Reddy",
+        "ops": "INC",
+        "opsName": "Anil Lad",
+        "margin": "16155",
+        "status": "Result Declared"
+    },
+    "95": {
+        "name": "Sandur",
+        "lead": "INC",
+        "leadName": "E. Tukaram",
+        "ops": "BJP",
+        "opsName": "D Raghavendra Manju",
+        "margin": "14010",
+        "status": "Result Declared"
+    },
+    "96": {
+        "name": "Kudligi",
+        "lead": "BJP",
+        "leadName": "N. Y. Gopalakrishna",
+        "ops": "JD(S)",
+        "opsName": "N. T. Bommanna",
+        "margin": "10813",
+        "status": "Result Declared"
+    },
+    "97": {
+        "name": "Molakalmuru",
+        "lead": "BJP",
+        "leadName": "B. Sriramulu",
+        "ops": "INC",
+        "opsName": "Dr. B. Yogesh Babu",
+        "margin": "42045",
+        "status": "Result Declared"
+    },
+    "98": {
+        "name": "Challakere",
+        "lead": "INC",
+        "leadName": "T. Raghumurthy",
+        "ops": "JD(S)",
+        "opsName": "Raveesh Kumar",
+        "margin": "13539",
+        "status": "Result Declared"
+    },
+    "99": {
+        "name": "Chitradurga",
+        "lead": "BJP",
+        "leadName": "G. H. Thippareddy",
+        "ops": "JD(S)",
+        "opsName": "K. C. Veerendra",
+        "margin": "32985",
+        "status": "Result Declared"
+    },
+    "100": {
+        "name": "Hiriyur",
+        "lead": "BJP",
+        "leadName": "K. Poornima",
+        "ops": "INC",
+        "opsName": "D. Sudhakar",
+        "margin": "12875",
+        "status": "Result Declared"
+    },
+    "101": {
+        "name": "Hosadurga",
+        "lead": "BJP",
+        "leadName": "Gulhatty D. Shekhar",
+        "ops": "INC",
+        "opsName": "B. G. Govindappa",
+        "margin": "25992",
+        "status": "Result Declared"
+    },
+    "102": {
+        "name": "Holalkere",
+        "lead": "BJP",
+        "leadName": "M. Chandrappa",
+        "ops": "INC",
+        "opsName": "H. Anjaneya",
+        "margin": "38940",
+        "status": "Result Declared"
+    },
+    "103": {
+        "name": "Jagalur",
+        "lead": "BJP",
+        "leadName": "S. V. Ramachandra",
+        "ops": "INC",
+        "opsName": "H. P. Rajesh",
+        "margin": "29221",
+        "status": "Result Declared"
+    },
+    "104": {
+        "name": "Harapanahalli",
+        "lead": "BJP",
+        "leadName": "G. Karunakara Reddy",
+        "ops": "INC",
+        "opsName": "M. P. Ravindra",
+        "margin": "9647",
+        "status": "Result Declared"
+    },
+    "105": {
+        "name": "Harihar",
+        "lead": "INC",
+        "leadName": "S. Ramappa",
+        "ops": "BJP",
+        "opsName": "B. P. Harish",
+        "margin": "7260",
+        "status": "Result Declared"
+    },
+    "106": {
+        "name": "Davanagere North",
+        "lead": "BJP",
+        "leadName": "S. A. Ravindranath",
+        "ops": "INC",
+        "opsName": "Shamanur Mallikarjun",
+        "margin": "4071",
+        "status": "Result Declared"
+    },
+    "107": {
+        "name": "Davanagere South",
+        "lead": "INC",
+        "leadName": "Shamanur Shivashankarappa",
+        "ops": "BJP",
+        "opsName": "Yashavantha Rao Jadhav",
+        "margin": "15884",
+        "status": "Result Declared"
+    },
+    "108": {
+        "name": "Mayakonda",
+        "lead": "BJP",
+        "leadName": "N. Linganna",
+        "ops": "INC",
+        "opsName": "K.S.Basavaraj",
+        "margin": "6458",
+        "status": "Result Declared"
+    },
+    "109": {
+        "name": "Channagiri",
+        "lead": "BJP",
+        "leadName": "K. Madal Virupakshappa",
+        "ops": "INC",
+        "opsName": "Vadnal Rajanna",
+        "margin": "25780",
+        "status": "Result Declared"
+    },
+    "110": {
+        "name": "Honnali",
+        "lead": "BJP",
+        "leadName": "M. P. Renukacharya",
+        "ops": "INC",
+        "opsName": "D. G. Shanthanagowda",
+        "margin": "4233",
+        "status": "Result Declared"
+    },
+    "111": {
+        "name": "Shimoga Rural",
+        "lead": "BJP",
+        "leadName": "K. B. Ashok Naik",
+        "ops": "JD(S)",
+        "opsName": "Sharada Puryanaik",
+        "margin": "3777",
+        "status": "Result Declared"
+    },
+    "112": {
+        "name": "Bhadravati",
+        "lead": "INC",
+        "leadName": "B.K. Sangameshwara",
+        "ops": "JD(S)",
+        "opsName": "M. J. Appaji Gowda",
+        "margin": "11567",
+        "status": "Result Declared"
+    },
+    "113": {
+        "name": "Shimoga",
+        "lead": "BJP",
+        "leadName": "K. S. Eshwarappa",
+        "ops": "INC",
+        "opsName": "K. B. Prasanna Kumar",
+        "margin": "46107",
+        "status": "Result Declared"
+    },
+    "114": {
+        "name": "Tirthahalli",
+        "lead": "BJP",
+        "leadName": "Araga Jnanendra",
+        "ops": "INC",
+        "opsName": "Kimmane Rathnakar",
+        "margin": "21955",
+        "status": "Result Declared"
+    },
+    "115": {
+        "name": "Shikaripura",
+        "lead": "BJP",
+        "leadName": "B. S. Yeddyurappa",
+        "ops": "INC",
+        "opsName": "Goni Malatesha",
+        "margin": "35397",
+        "status": "Result Declared"
+    },
+    "116": {
+        "name": "Sorab",
+        "lead": "BJP",
+        "leadName": "Kumar Bangarappa",
+        "ops": "JD(S)",
+        "opsName": "S.Madhu Bangarappa",
+        "margin": "13286",
+        "status": "Result Declared"
+    },
+    "117": {
+        "name": "Sagar",
+        "lead": "BJP",
+        "leadName": "Hartalu Halappa",
+        "ops": "INC",
+        "opsName": "Kagodu Thimmappa",
+        "margin": "8039",
+        "status": "Result Declared"
+    },
+    "118": {
+        "name": "Baindur",
+        "lead": "BJP",
+        "leadName": "B. M. Sukumar Shetty",
+        "ops": "INC",
+        "opsName": "K. Gopala Poojary",
+        "margin": "24393",
+        "status": "Result Declared"
+    },
+    "119": {
+        "name": "Kundapura",
+        "lead": "BJP",
+        "leadName": "Halady Srinivas Shetty",
+        "ops": "INC",
+        "opsName": "Rakesh Malli",
+        "margin": "56405",
+        "status": "Result Declared"
+    },
+    "120": {
+        "name": "Udupi",
+        "lead": "BJP",
+        "leadName": "K. Raghupati Bhat",
+        "ops": "INC",
+        "opsName": "Pramod Madhwaraj",
+        "margin": "12044",
+        "status": "Result Declared"
+    },
+    "121": {
+        "name": "Kaup",
+        "lead": "BJP",
+        "leadName": "Lalaji Mendon",
+        "ops": "INC",
+        "opsName": "Vinay Kumar Sorake",
+        "margin": "11917",
+        "status": "Result Declared"
+    },
+    "122": {
+        "name": "Karkala",
+        "lead": "BJP",
+        "leadName": "V. Sunil Kumar",
+        "ops": "INC",
+        "opsName": "Gopala Bhandary",
+        "margin": "42566",
+        "status": "Result Declared"
+    },
+    "123": {
+        "name": "Sringeri",
+        "lead": "INC",
+        "leadName": "T. D. Rajegowda",
+        "ops": "BJP",
+        "opsName": "D. N. Jeevaraj",
+        "margin": "1989",
+        "status": "Result Declared"
+    },
+    "124": {
+        "name": "Mudigere",
+        "lead": "BJP",
+        "leadName": "M. P. Kumaraswamy",
+        "ops": "INC",
+        "opsName": "Motamma",
+        "margin": "12512",
+        "status": "Result Declared"
+    },
+    "125": {
+        "name": "Chikmagalur",
+        "lead": "BJP",
+        "leadName": "C. T. Ravi",
+        "ops": "INC",
+        "opsName": "B. L. Shankar",
+        "margin": "26314",
+        "status": "Result Declared"
+    },
+    "126": {
+        "name": "Tarikere",
+        "lead": "BJP",
+        "leadName": "D. S. Suresh",
+        "ops": "Independent",
+        "opsName": "G. H. Srinivasa",
+        "margin": "11687",
+        "status": "Result Declared"
+    },
+    "127": {
+        "name": "Kadur",
+        "lead": "BJP",
+        "leadName": "K. S. Prakash",
+        "ops": "JD(S)",
+        "opsName": "Y. S. V. Datta",
+        "margin": "15372",
+        "status": "Result Declared"
+    },
+    "128": {
+        "name": "Chiknayakanhalli",
+        "lead": "BJP",
+        "leadName": "J. C. Madhuswamy",
+        "ops": "JD(S)",
+        "opsName": "C. B. Suresh Babu",
+        "margin": "10277",
+        "status": "Result Declared"
+    },
+    "129": {
+        "name": "Tiptur",
+        "lead": "BJP",
+        "leadName": "B. C. Nagesh",
+        "ops": "INC",
+        "opsName": "K. Shadakshari",
+        "margin": "25563",
+        "status": "Result Declared"
+    },
+    "130": {
+        "name": "Turuvekere",
+        "lead": "BJP",
+        "leadName": "A. S. Jayaram",
+        "ops": "JD(S)",
+        "opsName": "M. T. Krishnappa",
+        "margin": "2049",
+        "status": "Result Declared"
+    },
+    "131": {
+        "name": "Kunigal",
+        "lead": "INC",
+        "leadName": "Dr. H. D. Ranganath",
+        "ops": "BJP",
+        "opsName": "D. Krishna Kumar",
+        "margin": "5600",
+        "status": "Result Declared"
+    },
+    "132": {
+        "name": "Tumkur City",
+        "lead": "BJP",
+        "leadName": "G. B. Jyothi Ganesh",
+        "ops": "JD(S)",
+        "opsName": "N. Govindaraju",
+        "margin": "5293",
+        "status": "Result Declared"
+    },
+    "133": {
+        "name": "Tumkur Rural",
+        "lead": "JD(S)",
+        "leadName": "D. C. Gowrishankar",
+        "ops": "BJP",
+        "opsName": "B. Suresh Gowda",
+        "margin": "5640",
+        "status": "Result Declared"
+    },
+    "134": {
+        "name": "Koratagere",
+        "lead": "INC",
+        "leadName": "Dr. G. Parameshwara",
+        "ops": "JD(S)",
+        "opsName": "P. R. Sudhakara Lal",
+        "margin": "7619",
+        "status": "Result Declared"
+    },
+    "135": {
+        "name": "Gubbi",
+        "lead": "JD(S)",
+        "leadName": "S. R. Srinivas",
+        "ops": "BJP",
+        "opsName": "G. N. Bettaswamy",
+        "margin": "9081",
+        "status": "Result Declared"
+    },
+    "136": {
+        "name": "Sira",
+        "lead": "JD(S)",
+        "leadName": "B. Sathyanarayana",
+        "ops": "INC",
+        "opsName": "T. B. Jayachandra",
+        "margin": "10365",
+        "status": "Result Declared"
+    },
+    "137": {
+        "name": "Pavagada",
+        "lead": "INC",
+        "leadName": "Venkata Ramanappa",
+        "ops": "JD(S)",
+        "opsName": "K. M. Thimmarayappa",
+        "margin": "409",
+        "status": "Result Declared"
+    },
+    "138": {
+        "name": "Madhugiri",
+        "lead": "JD(S)",
+        "leadName": "M.V. Veerabhadraiah",
+        "ops": "INC",
+        "opsName": "Kyathasandra N. Rajanna",
+        "margin": "18574",
+        "status": "Result Declared"
+    },
+    "139": {
+        "name": "Gauribidanur",
+        "lead": "INC",
+        "leadName": "N.H.Shivashankara Reddy",
+        "ops": "JD(S)",
+        "opsName": "C. R. Narasimhamurthy",
+        "margin": "9168",
+        "status": "Result Declared"
+    },
+    "140": {
+        "name": "Bagepalli",
+        "lead": "INC",
+        "leadName": "N. H. Shivashankara Reddy",
+        "ops": "CPI(M)",
+        "opsName": "G.V. Sreeramareddy",
+        "margin": "14013",
+        "status": "Result Declared"
+    },
+    "141": {
+        "name": "Chikkaballapur",
+        "lead": "INC",
+        "leadName": "S. N. Subbareddy",
+        "ops": "JD(S)",
+        "opsName": "K. P. Bachegowda",
+        "margin": "30431",
+        "status": "Result Declared"
+    },
+    "142": {
+        "name": "Sidlaghatta",
+        "lead": "INC",
+        "leadName": "K. Sudhakar",
+        "ops": "JD(S)",
+        "opsName": "B. N. Ravikumar",
+        "margin": "9709",
+        "status": "Result Declared"
+    },
+    "143": {
+        "name": "Chintamani",
+        "lead": "JD(S)",
+        "leadName": "V. Muniyappa",
+        "ops": "Bharatiya Praja Paksha",
+        "opsName": "Dr. M. C. Sudhakar",
+        "margin": "5240",
+        "status": "Result Declared"
+    },
+    "144": {
+        "name": "Srinivaspur",
+        "lead": "INC",
+        "leadName": "J. K. Krishnareddy",
+        "ops": "JD(S)",
+        "opsName": "G. K. Venkatashivareddy",
+        "margin": "10552",
+        "status": "Result Declared"
+    },
+    "145": {
+        "name": "Mulbagal",
+        "lead": "Independent",
+        "leadName": "H. Nagesh",
+        "ops": "JD(S)",
+        "opsName": "Samruddhi Manjunath",
+        "margin": "6715",
+        "status": "Result Declared"
+    },
+    "146": {
+        "name": "Kolar Gold Field",
+        "lead": "INC",
+        "leadName": "M. Roopakala",
+        "ops": "BJP",
+        "opsName": "Ashwini Sampangi",
+        "margin": "40827",
+        "status": "Result Declared"
+    },
+    "147": {
+        "name": "Bangarapet",
+        "lead": "INC",
+        "leadName": "S. N. Narayana Swamy",
+        "ops": "JD(S)",
+        "opsName": "M. Mallesh Babu",
+        "margin": "21871",
+        "status": "Result Declared"
+    },
+    "148": {
+        "name": "Kolar",
+        "lead": "JD(S)",
+        "leadName": "K. Srinivasa Gowda",
+        "ops": "INC",
+        "opsName": "Syed Zameer Pasha",
+        "margin": "44251",
+        "status": "Result Declared"
+    },
+    "149": {
+        "name": "Malur",
+        "lead": "INC",
+        "leadName": "K. Y. Nanjegowda",
+        "ops": "JD(S)",
+        "opsName": "K. S. Manjunath Gowda",
+        "margin": "17915",
+        "status": "Result Declared"
+    },
+    "150": {
+        "name": "Yelahanka",
+        "lead": "BJP",
+        "leadName": "S. R. Vishwanath",
+        "ops": "JD(S)",
+        "opsName": "A. M. Hanumanthegowda",
+        "margin": "42503",
+        "status": "Result Declared"
+    },
+    "151": {
+        "name": "Krishnarajapuram",
+        "lead": "INC",
+        "leadName": "Byrathi Basavaraj",
+        "ops": "BJP",
+        "opsName": "N. S. Nandiesha Reddy",
+        "margin": "32729",
+        "status": "Result Declared"
+    },
+    "152": {
+        "name": "Byatarayanapura",
+        "lead": "INC",
+        "leadName": "Krishna Byre Gowda",
+        "ops": "BJP",
+        "opsName": "A Ravi",
+        "margin": "5671",
+        "status": "Result Declared"
+    },
+    "153": {
+        "name": "Yeshwantpur",
+        "lead": "INC",
+        "leadName": "S. T. Somashekar",
+        "ops": "JD(S)",
+        "opsName": "T N Javarayi Gowda",
+        "margin": "10711",
+        "status": "Result Declared"
+    },
+    "154": {
+        "name": "Rajarajeshwarinagar",
+        "lead": "INC",
+        "leadName": "Munirathna",
+        "ops": "BJP",
+        "opsName": "P. Muniraju Gowda",
+        "margin": "25492",
+        "status": "Result Declared"
+    },
+    "155": {
+        "name": "Dasarahalli",
+        "lead": "JD(S)",
+        "leadName": "R. Manjunatha",
+        "ops": "BJP",
+        "opsName": "S. Muniraju",
+        "margin": "10675",
+        "status": "Result Declared"
+    },
+    "156": {
+        "name": "Mahalakshmi Layout",
+        "lead": "JD(S)",
+        "leadName": "K. Gopalaiah",
+        "ops": "BJP",
+        "opsName": "N.L. Narendra Babu",
+        "margin": "41100",
+        "status": "Result Declared"
+    },
+    "157": {
+        "name": "Malleshwaram",
+        "lead": "BJP",
+        "leadName": "Dr. C.N. Ashwath Narayan",
+        "ops": "INC",
+        "opsName": "Kengal Shreepadha Renu",
+        "margin": "54000",
+        "status": "Result Declared"
+    },
+    "158": {
+        "name": "Hebbal",
+        "lead": "INC",
+        "leadName": "Suresha BS",
+        "ops": "BJP",
+        "opsName": "Y. A. Narayanaswamy",
+        "margin": "21140",
+        "status": "Result Declared"
+    },
+    "159": {
+        "name": "Pulakeshinagar",
+        "lead": "INC",
+        "leadName": "Akhanda Srinivas Murthy",
+        "ops": "JD(S)",
+        "opsName": "B. Prasanna Kumar",
+        "margin": "81626",
+        "status": "Result Declared"
+    },
+    "160": {
+        "name": "Sarvagnanagar",
+        "lead": "INC",
+        "leadName": "K. J. George",
+        "ops": "BJP",
+        "opsName": "M. N. Reddy",
+        "margin": "53304",
+        "status": "Result Declared"
+    },
+    "161": {
+        "name": "C. V. Raman Nagar",
+        "lead": "BJP",
+        "leadName": "S. Raghu",
+        "ops": "INC",
+        "opsName": "R. Sampath Raj",
+        "margin": "12227",
+        "status": "Result Declared"
+    },
+    "162": {
+        "name": "Shivajinagar",
+        "lead": "INC",
+        "leadName": "R. Roshan Baig",
+        "ops": "BJP",
+        "opsName": "Katta Subramanya Naidu",
+        "margin": "15040",
+        "status": "Result Declared"
+    },
+    "163": {
+        "name": "Shanti Nagar",
+        "lead": "INC",
+        "leadName": "N. A. Haris",
+        "ops": "BJP",
+        "opsName": "K. Vasudevamurthy",
+        "margin": "18205",
+        "status": "Result Declared"
+    },
+    "164": {
+        "name": "Gandhi Nagar",
+        "lead": "INC",
+        "leadName": "Dinesh Gundu Rao",
+        "ops": "BJP",
+        "opsName": "A. R. Sapthagiri Gowda",
+        "margin": "10070",
+        "status": "Result Declared"
+    },
+    "165": {
+        "name": "Rajaji Nagar",
+        "lead": "BJP",
+        "leadName": "S. Suresh Kumar",
+        "ops": "INC",
+        "opsName": "G. Padmavathi",
+        "margin": "9453",
+        "status": "Result Declared"
+    },
+    "166": {
+        "name": "Govindraj Nagar",
+        "lead": "BJP",
+        "leadName": "V. Somanna",
+        "ops": "INC",
+        "opsName": "Priya Krishna",
+        "margin": "11375",
+        "status": "Result Declared"
+    },
+    "167": {
+        "name": "Vijay Nagar",
+        "lead": "INC",
+        "leadName": "M. Krishnappa",
+        "ops": "BJP",
+        "opsName": "H. Ravindra",
+        "margin": "2775",
+        "status": "Result Declared"
+    },
+    "168": {
+        "name": "Chamrajpet",
+        "lead": "INC",
+        "leadName": "Zameer Ahmed Khan",
+        "ops": "BJP",
+        "opsName": "M Lakshminarayana",
+        "margin": "33137",
+        "status": "Result Declared"
+    },
+    "169": {
+        "name": "Chickpet",
+        "lead": "BJP",
+        "leadName": "Uday B. Garudachar",
+        "ops": "INC",
+        "opsName": "R. V. Devraj",
+        "margin": "7934",
+        "status": "Result Declared"
+    },
+    "170": {
+        "name": "Basavanagudi",
+        "lead": "BJP",
+        "leadName": "L. A. Ravi Subramanya",
+        "ops": "JD(S)",
+        "opsName": "K. Bagegowda",
+        "margin": "38009",
+        "status": "Result Declared"
+    },
+    "171": {
+        "name": "Padmanabhanagar",
+        "lead": "BJP",
+        "leadName": "R. Ashoka",
+        "ops": "JD(S)",
+        "opsName": "V. K. Gopal",
+        "margin": "32166",
+        "status": "Result Declared"
+    },
+    "172": {
+        "name": "B.T.M. Layout",
+        "lead": "INC",
+        "leadName": "Ramalinga Reddy",
+        "ops": "BJP",
+        "opsName": "Lallesh Reddy",
+        "margin": "20478",
+        "status": "Result Declared"
+    },
+    "173": {
+        "name": "Jayanagar",
+        "lead": "INC",
+        "leadName": "Soumya Reddy",
+        "ops": "BJP",
+        "opsName": "B. N. Prahlad",
+        "margin": "2889",
+        "status": "Result Declared"
+    },
+    "174": {
+        "name": "Mahadevapura",
+        "lead": "BJP",
+        "leadName": "Aravind Limbavali",
+        "ops": "INC",
+        "opsName": "A. C. Srinivasa",
+        "margin": "17784",
+        "status": "Result Declared"
+    },
+    "175": {
+        "name": "Bommanahalli",
+        "lead": "BJP",
+        "leadName": "M Satish Reddy",
+        "ops": "INC",
+        "opsName": "Sushma Rajagopala Reddy",
+        "margin": "47162",
+        "status": "Result Declared"
+    },
+    "176": {
+        "name": "Bangalore South",
+        "lead": "BJP",
+        "leadName": "M. Krishnappa",
+        "ops": "INC",
+        "opsName": "R. K. Ramesh",
+        "margin": "30359",
+        "status": "Result Declared"
+    },
+    "177": {
+        "name": "Anekal",
+        "lead": "INC",
+        "leadName": "B. Shivanna",
+        "ops": "BJP",
+        "opsName": "A. Narayanaswamy",
+        "margin": "8627",
+        "status": "Result Declared"
+    },
+    "178": {
+        "name": "Hoskote",
+        "lead": "INC",
+        "leadName": "M. T. B. Nagaraj",
+        "ops": "BJP",
+        "opsName": "Sharath Kumar Bachegowda",
+        "margin": "7597",
+        "status": "Result Declared"
+    },
+    "179": {
+        "name": "Devanahalli",
+        "lead": "JD(S)",
+        "leadName": "Narayanaswamy L. N.",
+        "ops": "INC",
+        "opsName": "Venkataswamy",
+        "margin": "17010",
+        "status": "Result Declared"
+    },
+    "180": {
+        "name": "Doddaballapur",
+        "lead": "INC",
+        "leadName": "T. Venkataramanaiah",
+        "ops": "JD(S)",
+        "opsName": "B. Munegowda",
+        "margin": "9945",
+        "status": "Result Declared"
+    },
+    "181": {
+        "name": "Nelamangala",
+        "lead": "JD(S)",
+        "leadName": "Dr. K. Srinavasamurthy",
+        "ops": "INC",
+        "opsName": "R. Narayanaswamy",
+        "margin": "24321",
+        "status": "Result Declared"
+    },
+    "182": {
+        "name": "Magadi",
+        "lead": "JD(S)",
+        "leadName": "A. Manjunath",
+        "ops": "INC",
+        "opsName": "H.C. Balakrishna",
+        "margin": "51425",
+        "status": "Result Declared"
+    },
+    "183": {
+        "name": "Ramanagaram",
+        "lead": "JD(S)",
+        "leadName": "H.D. Kumaraswamy",
+        "ops": "INC",
+        "opsName": "H. A. Iqbal Hussain",
+        "margin": "22636",
+        "status": "Result Declared"
+    },
+    "184": {
+        "name": "Kanakapura",
+        "lead": "INC",
+        "leadName": "D. K. Shivakumar",
+        "ops": "JD(S)",
+        "opsName": "Narayana Gowda",
+        "margin": "79909",
+        "status": "Result Declared"
+    },
+    "185": {
+        "name": "Channapatna",
+        "lead": "JD(S)",
+        "leadName": "H.D. Kumaraswamy",
+        "ops": "BJP",
+        "opsName": "C. P. Yogeeshwara",
+        "margin": "21530",
+        "status": "Result Declared"
+    },
+    "186": {
+        "name": "Malavalli",
+        "lead": "JD(S)",
+        "leadName": "Dr. K. Annadani",
+        "ops": "INC",
+        "opsName": "P.M.Narendraswamy",
+        "margin": "26760",
+        "status": "Result Declared"
+    },
+    "187": {
+        "name": "Maddur",
+        "lead": "JD(S)",
+        "leadName": "D. C. Thammanna",
+        "ops": "INC",
+        "opsName": "Madhu G Madegowda",
+        "margin": "54030",
+        "status": "Result Declared"
+    },
+    "188": {
+        "name": "Melukote",
+        "lead": "JD(S)",
+        "leadName": "C. S. Puttaraju",
+        "ops": "Swaraj Abhiyan",
+        "opsName": "Darshan Puttannaiah",
+        "margin": "22224",
+        "status": "Result Declared"
+    },
+    "189": {
+        "name": "Mandya",
+        "lead": "JD(S)",
+        "leadName": "M. Srinivas",
+        "ops": "INC",
+        "opsName": "P. Ravikumar",
+        "margin": "21608",
+        "status": "Result Declared"
+    },
+    "190": {
+        "name": "Shrirangapattana",
+        "lead": "JD(S)",
+        "leadName": "Ravindra Srikantaiah",
+        "ops": "INC",
+        "opsName": "A. B. Ramesha Bandisiddegowda",
+        "margin": "43688",
+        "status": "Result Declared"
+    },
+    "191": {
+        "name": "Nagamangala",
+        "lead": "JD(S)",
+        "leadName": "Suresh Gowda",
+        "ops": "INC",
+        "opsName": "N. Chaluvaraya Swamy",
+        "margin": "47667",
+        "status": "Result Declared"
+    },
+    "192": {
+        "name": "Krishnarajapet",
+        "lead": "JD(S)",
+        "leadName": "Narayana Gowda",
+        "ops": "INC",
+        "opsName": "K. B. Chandrashekar",
+        "margin": "17119",
+        "status": "Result Declared"
+    },
+    "193": {
+        "name": "Shravanabelagola",
+        "lead": "JD(S)",
+        "leadName": "C. N. Balakrishna",
+        "ops": "INC",
+        "opsName": "C. S. Puttegowda",
+        "margin": "53012",
+        "status": "Result Declared"
+    },
+    "194": {
+        "name": "Arsikere",
+        "lead": "JD(S)",
+        "leadName": "K. M. Shivalinge Gowda",
+        "ops": "INC",
+        "opsName": "G. B. Shashidhara",
+        "margin": "43689",
+        "status": "Result Declared"
+    },
+    "195": {
+        "name": "Belur",
+        "lead": "JD(S)",
+        "leadName": "K. S. Lingesha",
+        "ops": "BJP",
+        "opsName": "H. K. Suresh",
+        "margin": "19690",
+        "status": "Result Declared"
+    },
+    "196": {
+        "name": "Hassan",
+        "lead": "BJP",
+        "leadName": "Preetham J. Gowda",
+        "ops": "JD(S)",
+        "opsName": "H. S. Prakash",
+        "margin": "13006",
+        "status": "Result Declared"
+    },
+    "197": {
+        "name": "Holenarasipur",
+        "lead": "JD(S)",
+        "leadName": "H. D. Revanna",
+        "ops": "INC",
+        "opsName": "B. P. Manjegowda",
+        "margin": "43832",
+        "status": "Result Declared"
+    },
+    "198": {
+        "name": "Arkalgud",
+        "lead": "JD(S)",
+        "leadName": "A. T. Ramaswamy",
+        "ops": "INC",
+        "opsName": "A. Manju",
+        "margin": "10653",
+        "status": "Result Declared"
+    },
+    "199": {
+        "name": "Sakleshpur",
+        "lead": "JD(S)",
+        "leadName": "H. K. Kumaraswamy",
+        "ops": "BJP",
+        "opsName": "Somashekar Jayaraj",
+        "margin": "4942",
+        "status": "Result Declared"
+    },
+    "200": {
+        "name": "Belthangady",
+        "lead": "BJP",
+        "leadName": "Harish Poonja",
+        "ops": "INC",
+        "opsName": "K. Vasantha Bangera",
+        "margin": "22974",
+        "status": "Result Declared"
+    },
+    "201": {
+        "name": "Moodabidri",
+        "lead": "BJP",
+        "leadName": "Umanatha A. Kotian",
+        "ops": "INC",
+        "opsName": "K. Abhayachandra",
+        "margin": "29799",
+        "status": "Result Declared"
+    },
+    "202": {
+        "name": "Mangalore City North",
+        "lead": "BJP",
+        "leadName": "Bharath Shetty",
+        "ops": "INC",
+        "opsName": "Mohiuddin Bava",
+        "margin": "26648",
+        "status": "Result Declared"
+    },
+    "203": {
+        "name": "Mangalore City South",
+        "lead": "BJP",
+        "leadName": "D. Vedavyas Kamath",
+        "ops": "INC",
+        "opsName": "J. R. Lobo",
+        "margin": "16075",
+        "status": "Result Declared"
+    },
+    "204": {
+        "name": "Mangalore",
+        "lead": "INC",
+        "leadName": "U. T. Khader",
+        "ops": "BJP",
+        "opsName": "Santhosh Kumar Rai Boliyaru",
+        "margin": "19739",
+        "status": "Result Declared"
+    },
+    "205": {
+        "name": "Bantval",
+        "lead": "BJP",
+        "leadName": "Rajesh Naik",
+        "ops": "INC",
+        "opsName": "Ramanath Rai",
+        "margin": "15971",
+        "status": "Result Declared"
+    },
+    "206": {
+        "name": "Puttur",
+        "lead": "BJP",
+        "leadName": "Sanjeeva Matandoor",
+        "ops": "INC",
+        "opsName": "Shakunthala T. Shetty",
+        "margin": "19477",
+        "status": "Result Declared"
+    },
+    "207": {
+        "name": "Sullia",
+        "lead": "BJP",
+        "leadName": "Angara S.",
+        "ops": "INC",
+        "opsName": "Dr. B. Raghu",
+        "margin": "26068",
+        "status": "Result Declared"
+    },
+    "208": {
+        "name": "Madikeri",
+        "lead": "BJP",
+        "leadName": "Appachu Ranjan",
+        "ops": "JD(S)",
+        "opsName": "B A Jivijaya",
+        "margin": "16015",
+        "status": "Result Declared"
+    },
+    "209": {
+        "name": "Virajpet",
+        "lead": "BJP",
+        "leadName": "K. G. Bopaiah",
+        "ops": "INC",
+        "opsName": "Arun Machaiah",
+        "margin": "13353",
+        "status": "Result Declared"
+    },
+    "210": {
+        "name": "Periyapatna",
+        "lead": "JD(S)",
+        "leadName": "K. Mahadeva",
+        "ops": "INC",
+        "opsName": "K. Venkatesh",
+        "margin": "7493",
+        "status": "Result Declared"
+    },
+    "211": {
+        "name": "Krishnarajanagara",
+        "lead": "JD(S)",
+        "leadName": "S. R. Mahesh",
+        "ops": "INC",
+        "opsName": "D. Ravishankar",
+        "margin": "1779",
+        "status": "Result Declared"
+    },
+    "212": {
+        "name": "Hunsur",
+        "lead": "JD(S)",
+        "leadName": "H. P. Manjunath",
+        "ops": "INC",
+        "opsName": "H. P. Manjunath",
+        "margin": "8575",
+        "status": "Result Declared"
+    },
+    "213": {
+        "name": "Heggadadevankote",
+        "lead": "INC",
+        "leadName": "Anil Kumar C.",
+        "ops": "JD(S)",
+        "opsName": "Chikkanna",
+        "margin": "22093",
+        "status": "Result Declared"
+    },
+    "214": {
+        "name": "Nanjangud",
+        "lead": "BJP",
+        "leadName": "Harshavardhan B.",
+        "ops": "INC",
+        "opsName": "Kalale N. Keshavamurthy",
+        "margin": "12479",
+        "status": "Result Declared"
+    },
+    "215": {
+        "name": "Chamundeshwari",
+        "lead": "JD(S)",
+        "leadName": "GT Devegowda",
+        "ops": "INC",
+        "opsName": "Siddaramaiah",
+        "margin": "36042",
+        "status": "Result Declared"
+    },
+    "216": {
+        "name": "Krishnaraja",
+        "lead": "BJP",
+        "leadName": "S. A. Ramadas",
+        "ops": "INC",
+        "opsName": "M. K. Somashekar",
+        "margin": "26347",
+        "status": "Result Declared"
+    },
+    "217": {
+        "name": "Chamaraja",
+        "lead": "BJP",
+        "leadName": "L. Nagendra",
+        "ops": "INC",
+        "opsName": "Vasu",
+        "margin": "14936",
+        "status": "Result Declared"
+    },
+    "218": {
+        "name": "Narasimharaja",
+        "lead": "INC",
+        "leadName": "Tanveer Sait",
+        "ops": "BJP",
+        "opsName": "Sandesh Swamy",
+        "margin": "18127",
+        "status": "Result Declared"
+    },
+    "219": {
+        "name": "Varuna",
+        "lead": "INC",
+        "leadName": "Yathindra Siddaramaiah",
+        "ops": "BJP",
+        "opsName": "T. Basavaraju",
+        "margin": "58616",
+        "status": "Result Declared"
+    },
+    "220": {
+        "name": "T. Narasipur",
+        "lead": "JD(S)",
+        "leadName": "Ashvin Kumar M.",
+        "ops": "INC",
+        "opsName": "Dr. H. C. Mahadevappa",
+        "margin": "28478",
+        "status": "Result Declared"
+    },
+    "221": {
+        "name": "Hanur",
+        "lead": "INC",
+        "leadName": "R. Narendra",
+        "ops": "BJP",
+        "opsName": "Dr. Preethan Nagappa",
+        "margin": "3513",
+        "status": "Result Declared"
+    },
+    "222": {
+        "name": "Kollegal",
+        "lead": "BSP",
+        "leadName": "N. Mahesh",
+        "ops": "INC",
+        "opsName": "A. R. Krishna Murthy",
+        "margin": "19454",
+        "status": "Result Declared"
+    },
+    "223": {
+        "name": "Chamarajanagar",
+        "lead": "INC",
+        "leadName": "C. Puttarangashetty",
+        "ops": "BJP",
+        "opsName": "K. R. Mallikarjunappa",
+        "margin": "4913",
+        "status": "Result Declared"
+    },
+    "224": {
+        "name": "Gundlupet",
+        "lead": "BJP",
+        "leadName": "C. S. Niranjan Kumar",
+        "ops": "INC",
+        "opsName": "Geeta Mahadevaprasad",
+        "margin": "16684",
+        "status": "Result Declared"
+    }
+}

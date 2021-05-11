@@ -1,0 +1,1073 @@
+{
+    "1": {
+        "name": "Sirpur",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Koneru Konappa",
+        "ops": "Indian National Congress",
+        "opsName": "Palvai Harish Babu",
+        "margin": "24036",
+        "status": "Result Declared"
+    },
+    "2": {
+        "name": "Chennur (SC)",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Balka Suman",
+        "ops": "Indian National Congress",
+        "opsName": "Venkatesh Netha Borlakunta",
+        "margin": "28132",
+        "status": "Result Declared"
+    },
+    "3": {
+        "name": "Bellampalli (SC)",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Durgam Chinnaiah",
+        "ops": "Bahujan Samaj Party",
+        "opsName": "Gaddam Vinod",
+        "margin": "11276",
+        "status": "Result Declared"
+    },
+    "4": {
+        "name": "Mancheriala",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Diwakar Rao Nadipelli",
+        "ops": "Indian National Congress",
+        "opsName": "Kokkirala Premsagar Rao",
+        "margin": "4848",
+        "status": "Result Declared"
+    },
+    "5": {
+        "name": "Asifabad (ST)",
+        "lead": "Indian National Congress",
+        "leadName": "Atram Sakku",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Kova Laxmi",
+        "margin": "171",
+        "status": "Result Declared"
+    },
+    "6": {
+        "name": "Khanapur (ST)",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Ajmeera Rekha",
+        "ops": "Indian National Congress",
+        "opsName": "Ramesh Rathod",
+        "margin": "20710",
+        "status": "Result Declared"
+    },
+    "7": {
+        "name": "Adilabad",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Jogu Ramanna",
+        "ops": "Bharatiya Janata Party",
+        "opsName": "Payal Shankar",
+        "margin": "26606",
+        "status": "Result Declared"
+    },
+    "8": {
+        "name": "Boath (ST)",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Rathod Bapu Rao",
+        "ops": "Indian National Congress",
+        "opsName": "Soyam Bapu Rao",
+        "margin": "6486",
+        "status": "Result Declared"
+    },
+    "9": {
+        "name": "Nirmal",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Allola Indrakaran Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Alleti Maheshwar Reddy",
+        "margin": "9271",
+        "status": "Result Declared"
+    },
+    "10": {
+        "name": "Mudhole",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Gaddigari Vittal Reddy",
+        "ops": "Bharatiya Janata Party",
+        "opsName": "Padakanti Ramadevi",
+        "margin": "43331",
+        "status": "Result Declared"
+    },
+    "112": {
+        "name": "Khammam",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Puvvada Ajay Kumar",
+        "ops": "Telugu Desam Party",
+        "opsName": "Nama Nageswara Rao",
+        "margin": "10991",
+        "status": "Result Declared"
+    },
+    "11": {
+        "name": "Armur",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Asannagari Jeevan Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Akula Lalitha",
+        "margin": "28795",
+        "status": "Result Declared"
+    },
+    "12": {
+        "name": "Bodhan|Shakil",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Shakil Aamir Mohammed",
+        "ops": "Indian National Congress",
+        "opsName": "Sudarshan Reddy Podduturi",
+        "margin": "8101",
+        "status": "Result Declared"
+    },
+    "13": {
+        "name": "Jukkal (SC)",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Hanmanth Shinde",
+        "ops": "Indian National Congress",
+        "opsName": "Gangaram S",
+        "margin": "35625",
+        "status": "Result Declared"
+    },
+    "14": {
+        "name": "Banswada",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Pocharam Srinivas Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Kasula Balaraju",
+        "margin": "18485",
+        "status": "Result Declared"
+    },
+    "15": {
+        "name": "Yellareddy",
+        "lead": "Indian National Congress",
+        "leadName": "Jajala Surender",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Eanugu Ravinder Reddy",
+        "margin": "35148",
+        "status": "Result Declared"
+    },
+    "16": {
+        "name": "Kamareddy",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Gampa Govardhan",
+        "ops": "Indian National Congress",
+        "opsName": "Mohammed Ali Shabbir",
+        "margin": "4557",
+        "status": "Result Declared"
+    },
+    "17": {
+        "name": "Nizamabad (Urban)",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Bigala Ganesh",
+        "ops": "Indian National Congress",
+        "opsName": "Taher Bin Hamdan",
+        "margin": "25841",
+        "status": "Result Declared"
+    },
+    "18": {
+        "name": "Nizamabad (Rural)",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Baji Reddy Goverdhan",
+        "ops": "Indian National Congress",
+        "opsName": "Rekulapally Bhoopathi Reddy",
+        "margin": "29646",
+        "status": "Result Declared"
+    },
+    "19": {
+        "name": "Balkonda",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Vemula Prashanth Reddy",
+        "ops": "Bahujan Samaj Party",
+        "opsName": "Sunil Kumar Muthyala",
+        "margin": "32408",
+        "status": "Result Declared"
+    },
+    "20": {
+        "name": "Koratla",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Kalvakuntla Vidya Sagar Rao",
+        "ops": "Indian National Congress",
+        "opsName": "Juvvadi Narsinga Rao",
+        "margin": "31220",
+        "status": "Result Declared"
+    },
+    "21": {
+        "name": "Jagtial",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "M Sanjay Kumar",
+        "ops": "Indian National Congress",
+        "opsName": "Jeevan Reddy Thatiparthi",
+        "margin": "61185",
+        "status": "Result Declared"
+    },
+    "22": {
+        "name": "Dharmapuri",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Koppula Eshwar",
+        "ops": "Indian National Congress",
+        "opsName": "Adluri Laxman Kumar",
+        "margin": "441",
+        "status": "Result Declared"
+    },
+    "23": {
+        "name": "Ramagundam",
+        "lead": "All India Forward Bloc",
+        "leadName": "Korukanti Chandar",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Somarapu Satyanarayana",
+        "margin": "26419",
+        "status": "Result Declared"
+    },
+    "24": {
+        "name": "Manthani",
+        "lead": "Indian National Congress",
+        "leadName": "Sridhar Babu",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Putta Madhukar",
+        "margin": "16230",
+        "status": "Result Declared"
+    },
+    "25": {
+        "name": "Peddapalle",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Dasari Manohar Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Chinthakunta Vijaya Ramana Rao",
+        "margin": "8466",
+        "status": "Result Declared"
+    },
+    "26": {
+        "name": "Karimnagar",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Gangula Kamalakar",
+        "ops": "Bharatiya Janata Party",
+        "opsName": "Bandi Sanjay Kumar",
+        "margin": "14974",
+        "status": "Result Declared"
+    },
+    "27": {
+        "name": "Choppadandi (SC)",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Ravi Shankar Sunke",
+        "ops": "Indian National Congress",
+        "opsName": "Medipally Sathyam",
+        "margin": "42127",
+        "status": "Result Declared"
+    },
+    "28": {
+        "name": "Vemulawada",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Chennamaneni Ramesh",
+        "ops": "Indian National Congress",
+        "opsName": "Aadi Srinivas",
+        "margin": "28186",
+        "status": "Result Declared"
+    },
+    "29": {
+        "name": "Sircilla",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "K. T. Rama Rao",
+        "ops": "Indian National Congress",
+        "opsName": "K K Mahender Reddy",
+        "margin": "89009",
+        "status": "Result Declared"
+    },
+    "30": {
+        "name": "Manakondur (SC)",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Rasamayi Balakishan",
+        "ops": "Indian National Congress",
+        "opsName": "Arepalli Mohan",
+        "margin": "31509",
+        "status": "Result Declared"
+    },
+    "31": {
+        "name": "Huzurabad",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Etela Rajender",
+        "ops": "Indian National Congress",
+        "opsName": "Kaushik Reddy Padi",
+        "margin": "43719",
+        "status": "Result Declared"
+    },
+    "32": {
+        "name": "Husnabad",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Vodithela Sathish Kumar",
+        "ops": "Communist Party of India",
+        "opsName": "Chadha Venkat Reddy",
+        "margin": "49964",
+        "status": "Result Declared"
+    },
+    "33": {
+        "name": "Siddipet",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "T. Harish Rao",
+        "ops": "Telangana Jana Samithi",
+        "opsName": "Bhavani Marikanti",
+        "margin": "118699",
+        "status": "Result Declared"
+    },
+    "34": {
+        "name": "Medak",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Padma Devender Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Ammareddy Gari Upender Reddy",
+        "margin": "47983",
+        "status": "Result Declared"
+    },
+    "35": {
+        "name": "Narayankhed",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Mahareddy Bhupal Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Suresh Shetkar",
+        "margin": "58508",
+        "status": "Result Declared"
+    },
+    "36": {
+        "name": "Andole (SC)",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Kranthi Kiran Chanti",
+        "ops": "Indian National Congress",
+        "opsName": "Damodar Raja Narasimha",
+        "margin": "16465",
+        "status": "Result Declared"
+    },
+    "37": {
+        "name": "Narsapur",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Chilumula Madan Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Vakiti Sunitha Laxma Reddy",
+        "margin": "38320",
+        "status": "Result Declared"
+    },
+    "38": {
+        "name": "Zahirabad (SC)",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Koninty Manik Rao",
+        "ops": "Indian National Congress",
+        "opsName": "J. Geeta Reddy",
+        "margin": "34473",
+        "status": "Result Declared"
+    },
+    "39": {
+        "name": "Sangareddy",
+        "lead": "Indian National Congress",
+        "leadName": "Turupu Jayaprakash Reddy",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Chinta Prabhakar",
+        "margin": "2589",
+        "status": "Result Declared"
+    },
+    "40": {
+        "name": "Patancheru",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Gudem Mahipal Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Kata Srinivas Goud",
+        "margin": "37699",
+        "status": "Result Declared"
+    },
+    "41": {
+        "name": "Dubbak",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Solipeta Ramalinga Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Maddula Nageshwar Reddy",
+        "margin": "62500",
+        "status": "Result Declared"
+    },
+    "42": {
+        "name": "Gajwel",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "K. Chandrashekar Rao",
+        "ops": "Indian National Congress",
+        "opsName": "Vanteru Pratap Reddy",
+        "margin": "58290",
+        "status": "Result Declared"
+    },
+    "43": {
+        "name": "Medchal",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Malla Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Kicchannagari Laxma Reddy",
+        "margin": "87990",
+        "status": "Result Declared"
+    },
+    "44": {
+        "name": "Malkajgiri",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Mynampally Hanumantha Rao",
+        "ops": "Bharatiya Janata Party",
+        "opsName": "Naraparaju Ramchander Rao",
+        "margin": "73698",
+        "status": "Result Declared"
+    },
+    "45": {
+        "name": "Quthbullapur",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "KP Vivekananda",
+        "ops": "Indian National Congress",
+        "opsName": "Kuna Srisailam Goud",
+        "margin": "41500",
+        "status": "Result Declared"
+    },
+    "46": {
+        "name": "Kukatpally",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Madhavaram Krishna Rao",
+        "ops": "Telugu Desam Party",
+        "opsName": "Nandamuri Venkata Suhasini",
+        "margin": "41049",
+        "status": "Result Declared"
+    },
+    "47": {
+        "name": "Uppal",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Bethi Subhas Reddy",
+        "ops": "Telugu Desam Party",
+        "opsName": "Tulla Veerender Goud",
+        "margin": "48168",
+        "status": "Result Declared"
+    },
+    "48": {
+        "name": "Ibrahimpatnam",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Manchireddy Kishan Reddy",
+        "ops": "Bahujan Samaj Party",
+        "opsName": "Malreddy Ranga Reddy",
+        "margin": "376",
+        "status": "Result Declared"
+    },
+    "49": {
+        "name": "L. B. Nagar",
+        "lead": "Indian National Congress",
+        "leadName": "Devireddy Sudheer Reddy",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Muddagowni Ram Mohan Goud",
+        "margin": "17848",
+        "status": "Result Declared"
+    },
+    "50": {
+        "name": "Maheshwaram",
+        "lead": "Indian National Congress",
+        "leadName": "Sabitha Indra Reddy",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Teegala Krishna Reddy",
+        "margin": "9227",
+        "status": "Result Declared"
+    },
+    "51": {
+        "name": "Rajendranagar",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "T Prakash Goud",
+        "ops": "Telugu Desam Party",
+        "opsName": "Ganesh Renukuntla",
+        "margin": "58373",
+        "status": "Result Declared"
+    },
+    "52": {
+        "name": "Serilingampally",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Arekapudi Gandhi",
+        "ops": "Telugu Desam Party",
+        "opsName": "V.Ananda Prasad",
+        "margin": "44295",
+        "status": "Result Declared"
+    },
+    "53": {
+        "name": "Chevella (SC)",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Kale Yadaiah",
+        "ops": "Indian National Congress",
+        "opsName": "K S Ratnam",
+        "margin": "33552",
+        "status": "Result Declared"
+    },
+    "54": {
+        "name": "Pargi",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "K Mahesh Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "T. Ram Mohan Reddy",
+        "margin": "15841",
+        "status": "Result Declared"
+    },
+    "55": {
+        "name": "Vicarabad (SC)",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Anand Methuku",
+        "ops": "Indian National Congress",
+        "opsName": "G Prasad Kumar",
+        "margin": "3092",
+        "status": "Result Declared"
+    },
+    "56": {
+        "name": "Tandur",
+        "lead": "Indian National Congress",
+        "leadName": "Pilot Rohith Reddy",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "P. Mahender Reddy",
+        "margin": "2875",
+        "status": "Result Declared"
+    },
+    "57": {
+        "name": "Musheerabad",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Muta Gopal",
+        "ops": "Indian National Congress",
+        "opsName": "Anil Kumar Yadav",
+        "margin": "36910",
+        "status": "Result Declared"
+    },
+    "58": {
+        "name": "Malakpet",
+        "lead": "All India Majlis-e-Ittehadul Muslimeen",
+        "leadName": "Ahmed Bin Abdullah Balala",
+        "ops": "Telugu Desam Party",
+        "opsName": "Mohammed Muzaffar Ali Khan",
+        "margin": "23512",
+        "status": "Result Declared"
+    },
+    "59": {
+        "name": "Amberpet",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "K. Venkatesham",
+        "ops": "Bharatiya Janata Party",
+        "opsName": "G. Kishan Reddy",
+        "margin": "1016",
+        "status": "Result Declared"
+    },
+    "60": {
+        "name": "Khairatabad",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Danam Nagender",
+        "ops": "Bharatiya Janata Party",
+        "opsName": "Chintala Ramachandra Reddy",
+        "margin": "28402",
+        "status": "Result Declared"
+    },
+    "61": {
+        "name": "Jubilee Hills",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Maganti Gopinath",
+        "ops": "Indian National Congress",
+        "opsName": "P. Vishnuvardhan Reddy",
+        "margin": "16004",
+        "status": "Result Declared"
+    },
+    "62": {
+        "name": "Sanathnagar",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Talasani Srinivas Yadav",
+        "ops": "Telugu Desam Party",
+        "opsName": "Kuna Venkatesh Goud",
+        "margin": "30651",
+        "status": "Result Declared"
+    },
+    "63": {
+        "name": "Nampally",
+        "lead": "All India Majlis-e-Ittehadul Muslimeen",
+        "leadName": "Jaffer Hussain",
+        "ops": "Indian National Congress",
+        "opsName": "Mohammed Feroz Khan",
+        "margin": "9675",
+        "status": "Result Declared"
+    },
+    "64": {
+        "name": "Karwan",
+        "lead": "All India Majlis-e-Ittehadul Muslimeen",
+        "leadName": "Kausar Mohiuddin",
+        "ops": "Bharatiya Janata Party",
+        "opsName": "Amar Singh",
+        "margin": "50169",
+        "status": "Result Declared"
+    },
+    "65": {
+        "name": "Goshamahal",
+        "lead": "Bharatiya Janata Party",
+        "leadName": "T. Raja Singh",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Prem Singh Rathore",
+        "margin": "17734",
+        "status": "Result Declared"
+    },
+    "66": {
+        "name": "Charminar",
+        "lead": "All India Majlis-e-Ittehadul Muslimeen",
+        "leadName": "Mumtaz Ahmed Khan",
+        "ops": "Bharatiya Janata Party",
+        "opsName": "T Uma Mahendra",
+        "margin": "32586",
+        "status": "Result Declared"
+    },
+    "67": {
+        "name": "Chandrayangutta",
+        "lead": "All India Majlis-e-Ittehadul Muslimeen",
+        "leadName": "Akbaruddin Owaisi",
+        "ops": "Bharatiya Janata Party",
+        "opsName": "Shahejadi Sayyad",
+        "margin": "80264",
+        "status": "Result Declared"
+    },
+    "68": {
+        "name": "Yakutpura",
+        "lead": "All India Majlis-e-Ittehadul Muslimeen",
+        "leadName": "Syed Ahmed Pasha Quadri",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Sama Sunder Reddy",
+        "margin": "46978",
+        "status": "Result Declared"
+    },
+    "69": {
+        "name": "Bahadurpura",
+        "lead": "All India Majlis-e-Ittehadul Muslimeen",
+        "leadName": "Mohammad Moazam Khan",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Mir Inayath Ali Baqri",
+        "margin": "82518",
+        "status": "Result Declared"
+    },
+    "70": {
+        "name": "Secunderabad",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "T. Padma Rao Goud",
+        "ops": "Indian National Congress",
+        "opsName": "Kasani Gnaneshwar Mudiraj",
+        "margin": "45470",
+        "status": "Result Declared"
+    },
+    "71": {
+        "name": "Secunderabad Cantt.",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "G Sayanna",
+        "ops": "Indian National Congress",
+        "opsName": "Sarve Satyanarayana",
+        "margin": "37563",
+        "status": "Result Declared"
+    },
+    "72": {
+        "name": "Kodangal",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Patnam Narendra Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Revanth Reddy",
+        "margin": "9319",
+        "status": "Result Declared"
+    },
+    "73": {
+        "name": "Narayanpet",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "S.Rajender Reddy",
+        "ops": "Bahujan Left Party",
+        "opsName": "K.Shivkumar Reddy",
+        "margin": "15187",
+        "status": "Result Declared"
+    },
+    "74": {
+        "name": "Mahbubnagar",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "V. Srinivas Goud",
+        "ops": "Telugu Desam Party",
+        "opsName": "M. Chandra Shekhar",
+        "margin": "57775",
+        "status": "Result Declared"
+    },
+    "75": {
+        "name": "Jadcherla",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Charlakota Laxma Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Mallu Ravi",
+        "margin": "45082",
+        "status": "Result Declared"
+    },
+    "76": {
+        "name": "Devarkadra",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Alla Venkateshwar Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Pavan Kumar",
+        "margin": "35248",
+        "status": "Result Declared"
+    },
+    "77": {
+        "name": "Makthal",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Chittem Ram Mohan Reddy",
+        "ops": "Independent",
+        "opsName": "Jalander Reddy",
+        "margin": "48315",
+        "status": "Result Declared"
+    },
+    "78": {
+        "name": "Wanaparthy",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Singireddy Niranjan Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Jillela Chinna Reddy",
+        "margin": "51685",
+        "status": "Result Declared"
+    },
+    "79": {
+        "name": "Gadwal",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Bandla Krishna Mohan Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "D. K. Aruna",
+        "margin": "28260",
+        "status": "Result Declared"
+    },
+    "80": {
+        "name": "Alampur",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "V M Abraham",
+        "ops": "Indian National Congress",
+        "opsName": "S A Sampath Kumar",
+        "margin": "44679",
+        "status": "Result Declared"
+    },
+    "81": {
+        "name": "Nagarkurnool",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Marri Janardhan Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Nagam Janardhan Reddy",
+        "margin": "54354",
+        "status": "Result Declared"
+    },
+    "82": {
+        "name": "Achampet",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Guvvala Balaraju",
+        "ops": "Indian National Congress",
+        "opsName": "Chikkudu Vamshikrishna",
+        "margin": "9114",
+        "status": "Result Declared"
+    },
+    "83": {
+        "name": "Kalwakurthy",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Gurka Jaipal Yadav",
+        "ops": "Bharatiya Janata Party",
+        "opsName": "Achary Talloju",
+        "margin": "3447",
+        "status": "Result Declared"
+    },
+    "84": {
+        "name": "Shadnagar",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Anjaiah Yelganamoni",
+        "ops": "Indian National Congress",
+        "opsName": "Chowlapally Pratap Reddy",
+        "margin": "20425",
+        "status": "Result Declared"
+    },
+    "85": {
+        "name": "Kollapur",
+        "lead": "Indian National Congress",
+        "leadName": "Beeram Harshavardhan Reddy",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Jupally Krishna Rao",
+        "margin": "12543",
+        "status": "Result Declared"
+    },
+    "86": {
+        "name": "Devarakonda",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Ravindra Kumar Ramavath",
+        "ops": "Indian National Congress",
+        "opsName": "Balu Naik Nenavath",
+        "margin": "38848",
+        "status": "Result Declared"
+    },
+    "87": {
+        "name": "Nagarjuna Sagar",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Nomula Narsimhaiah",
+        "ops": "Indian National Congress",
+        "opsName": "Kunduru Jana Reddy",
+        "margin": "7771",
+        "status": "Result Declared"
+    },
+    "88": {
+        "name": "Miryalaguda",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Nallamothu Bhaskar Rao",
+        "ops": "Indian National Congress",
+        "opsName": "R. Krishnaiah",
+        "margin": "30652",
+        "status": "Result Declared"
+    },
+    "89": {
+        "name": "Huzurnagar",
+        "lead": "Indian National Congress",
+        "leadName": "N. Uttam Kumar Reddy",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Shanampudi Saidireddy",
+        "margin": "7466",
+        "status": "Result Declared"
+    },
+    "90": {
+        "name": "Kodad",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Bollam Mallaiah Yadav",
+        "ops": "Indian National Congress",
+        "opsName": "N. Padmavathi Reddy",
+        "margin": "756",
+        "status": "Result Declared"
+    },
+    "91": {
+        "name": "Suryapet",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Guntakandla Jagadish Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Damodar Reddy Ram Reddy",
+        "margin": "5967",
+        "status": "Result Declared"
+    },
+    "92": {
+        "name": "Nalgonda",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Kancharla Bhupal Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Komatireddy Venkat Reddy",
+        "margin": "23698",
+        "status": "Result Declared"
+    },
+    "93": {
+        "name": "Munugode",
+        "lead": "Indian National Congress",
+        "leadName": "Komatireddy Raj Gopal Reddy",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Kusukuntla Prabhakar Reddy",
+        "margin": "22552",
+        "status": "Result Declared"
+    },
+    "94": {
+        "name": "Bhongir",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Pailla Shekar Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Anil Kumar Reddy Kumbam",
+        "margin": "24063",
+        "status": "Result Declared"
+    },
+    "95": {
+        "name": "Nakrekal (SC)",
+        "lead": "Indian National Congress",
+        "leadName": "Chirumarthi Lingaiah",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Vemula Veeresham",
+        "margin": "8259",
+        "status": "Result Declared"
+    },
+    "96": {
+        "name": "Thungathurthi (SC)",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Gadari Kishore Kumar",
+        "ops": "Indian National Congress",
+        "opsName": "Addanki Dayakar",
+        "margin": "1847",
+        "status": "Result Declared"
+    },
+    "97": {
+        "name": "Alair",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Gongidi Sunitha",
+        "ops": "Indian National Congress",
+        "opsName": "Budida Bikshamaiah",
+        "margin": "33086",
+        "status": "Result Declared"
+    },
+    "98": {
+        "name": "Jangaon",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Muthireddy Yadagiri Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Ponnala Lakshmaiah",
+        "margin": "29568",
+        "status": "Result Declared"
+    },
+    "99": {
+        "name": "Ghanpur(Station)",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Thatikonda Rajaiah",
+        "ops": "Indian National Congress",
+        "opsName": "Indira Singapuram",
+        "margin": "35790",
+        "status": "Result Declared"
+    },
+    "100": {
+        "name": "Palakurthi",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Errabelli Dayakar Rao",
+        "ops": "Indian National Congress",
+        "opsName": "Janga Ragavareddy",
+        "margin": "53053",
+        "status": "Result Declared"
+    },
+    "101": {
+        "name": "Dornakal",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "D S Redya Naik",
+        "ops": "Indian National Congress",
+        "opsName": "Jatoth Ram Chandru Naik",
+        "margin": "17381",
+        "status": "Result Declared"
+    },
+    "102": {
+        "name": "Mahabubabad(ST)",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Banoth Shankar Nayak",
+        "ops": "Indian National Congress",
+        "opsName": "Balram Naik",
+        "margin": "13534",
+        "status": "Result Declared"
+    },
+    "103": {
+        "name": "Narsampet",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Peddi Sudarshan Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Donthi Madhava Reddy",
+        "margin": "16949",
+        "status": "Result Declared"
+    },
+    "104": {
+        "name": "Parkal",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Challa Dharma Reddy",
+        "ops": "Indian National Congress",
+        "opsName": "Konda Surekha",
+        "margin": "46519",
+        "status": "Result Declared"
+    },
+    "105": {
+        "name": "Warangal West",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Dasyam Vinay Bhasker",
+        "ops": "Telugu Desam Party",
+        "opsName": "Revuri Prakash Reddy",
+        "margin": "36451",
+        "status": "Result Declared"
+    },
+    "106": {
+        "name": "Warangal East",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Narendar Nannapuneni",
+        "ops": "Indian National Congress",
+        "opsName": "Ravi Chandra Vaddiraju",
+        "margin": "28782",
+        "status": "Result Declared"
+    },
+    "107": {
+        "name": "Waradhanapet(SC)",
+        "lead": "Telangana Rashtra Samithi",
+        "leadName": "Aroori Ramesh",
+        "ops": "Telangana Jana Samithi",
+        "opsName": "Devaiah Pagidipati",
+        "margin": "99240",
+        "status": "Result Declared"
+    },
+    "108": {
+        "name": "Bhupalpalle",
+        "lead": "Indian National Congress",
+        "leadName": "Gandra Venkata Ramana Reddy",
+        "ops": "All India Forward Bloc",
+        "opsName": "Gandra Sathyanarayana Rao",
+        "margin": "15635",
+        "status": "Result Declared"
+    },
+    "109": {
+        "name": "Mulug(ST)",
+        "lead": "Indian National Congress",
+        "leadName": "Dansari Anasuya",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Azmeera Chandulal",
+        "margin": "22671",
+        "status": "Result Declared"
+    },
+    "110": {
+        "name": "Pinapaka(ST)",
+        "lead": "Indian National Congress",
+        "leadName": "Kantha Rao Rega",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Payam Venkateswarlu",
+        "margin": "19565",
+        "status": "Result Declared"
+    },
+    "111": {
+        "name": "Yellandu (ST)",
+        "lead": "Indian National Congress",
+        "leadName": "Haripriya Banoth",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Koram Kanakaiah",
+        "margin": "2887",
+        "status": "Result Declared"
+    },
+    "113": {
+        "name": "Palair",
+        "lead": "Indian National Congress",
+        "leadName": "Kandala Upender Reddy",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Thummala Nageswara Rao",
+        "margin": "7669",
+        "status": "Result Declared"
+    },
+    "114": {
+        "name": "Madhira (SC)",
+        "lead": "Indian National Congress",
+        "leadName": "Mallu Bhatti Vikramarka",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Kamal Raju Lingala",
+        "margin": "3567",
+        "status": "Result Declared"
+    },
+    "115": {
+        "name": "Wyra (ST)",
+        "lead": "Independent",
+        "leadName": "Lavudya Ramulu",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Banoth Madan Lal",
+        "margin": "2013",
+        "status": "Result Declared"
+    },
+    "116": {
+        "name": "Sathupalle (SC)",
+        "lead": "Telugu Desam Party",
+        "leadName": "Sandra Venkata Veeraiah",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Pidamarthi Ravi",
+        "margin": "19002",
+        "status": "Result Declared"
+    },
+    "117": {
+        "name": "Kothagudem",
+        "lead": "Indian National Congress",
+        "leadName": "Vanama Nageswar Rao",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Jalagam Venkat Rao",
+        "margin": "4139",
+        "status": "Result Declared"
+    },
+    "118": {
+        "name": "Aswaraopeta",
+        "lead": "Telugu Desam Party",
+        "leadName": "Mecha Nageswara Rao",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Thati Venkateswarlu",
+        "margin": "13117",
+        "status": "Result Declared"
+    },
+    "119": {
+        "name": "Bhadrachalam(ST)",
+        "lead": "Indian National Congress",
+        "leadName": "Podem Veeraiah",
+        "ops": "Telangana Rashtra Samithi",
+        "opsName": "Tellam Venkata Rao",
+        "margin": "11785",
+        "status": "Result Declared"
+    }
+}
