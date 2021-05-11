@@ -27,24 +27,11 @@
 		button:hover {
 		  box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
 		}
-		#card {
-        	height: 600px;
-        	display: flex;
-		}
 		 #map {
         	width: 400px;
         	height: 600px;
         	z-index: 0;
         }
-      	#result
-		{
-          width: 300px;
-          height: 500px;
-		  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  		  transition: 0.3s;
-  		  padding: 15px;
-  		  overflow-x: hidden;
-		}
 		.leaflet-container {
     		background-color:rgba(255,0,0,0.0);
 		}
@@ -58,14 +45,16 @@
 	<button id="KERALA" onclick="changeState(2)">KERALA</button>
 	<button id="TAMIL NADU" onclick="changeState(3)">TAMIL NADU</button>
 	<button id="WEST BENGAL" onclick="changeState(4)">WEST BENGAL</button>
+	<button id="ANDHRA PRADESH" onclick="changeState(5)">ANDHRA PRADESH</button>
+	<button id="TELANGANA" onclick="changeState(6)">TELANGANA</button>
+	<button id="KARNATAKA" onclick="changeState(7)">KARNATAKA</button>
 	<card id="card">
-	<div id="map"></div>
-	<div id="result">></div></card>
+	<div id="map"></div></card>
 
 	<script type="text/javascript">
 	var state=3;
 	function changeState(no){
-		var states={1:"ASSAM",2:"KERALA",3:"TAMIL NADU",4:"WEST BENGAL"};
+		var states={1:"ASSAM",2:"KERALA",3:"TAMIL NADU",4:"WEST BENGAL",5:"ANDHRA PRADESH",6:"TELANGANA",7:"KARNATAKA"};
 		if (state!=no){
 			document.getElementById(state).style.backgroundColor="skyblue";
 			state=states[no];
@@ -73,7 +62,7 @@
 		}
 	}
 	var data,alt,colors,totalData,map,div;
-	var stateLayer;
+	var stateLayer,infor,info;
 	var tapped=false;
 	var lastClickedLayer,checkLayer;
 	var state="WEST BENGAL";
@@ -85,10 +74,13 @@
     	 colors=json;
 	});
    	totalData={
-	"WEST BENGAL":["./data/WB.json","./cons/wb.geojson",24.5266711,88.0825198,7,700,600],
+	"WEST BENGAL":["./data/WB.json","./cons/wb.geojson",24.426779,89.5152393,7,700,600],
 	"KERALA":["./data/KERALA.json","./cons/kerala.geojson",10.0517048,76.5419599,7,700,600],
-	"TAMIL NADU":["./data/TN.json","./cons/tn.geojson",10.689306,78.4316083,7,700,600],
-	"ASSAM":["./data/ASSAM.json","./cons/assam.geojson",25.9521311,92.830272,7,700,600],
+	"TAMIL NADU":["./data/TN.json","./cons/tn.geojson",10.689306,79.4316083,7,700,600],
+	"ASSAM":["./data/ASSAM.json","./cons/assam.geojson",25.9521311,93.830272,7,880,600],
+	"ANDHRA PRADESH":["./data/AP.json","./cons/ap.geojson",15.8764221,81.8357959,7,980,700],
+	"TELANGANA":["./data/TS.json","./cons/ts.geojson",17.9613659,80.3440651,7,700,600],
+	"KARNATAKA":["./data/KARNATAKA.json","./cons/karnataka.geojson",15.081218,76.7813969,7,700,670]
 	};
 	
 	function loadMap(state){
@@ -105,8 +97,6 @@
 		document.getElementById(state).style.backgroundColor="green";
 		document.getElementById("map").style.width=width+"px";
 		document.getElementById("map").style.height=height+"px";
-		document.getElementById("result").style.height=height/2+"px";
-		document.getElementById("result").style.left=(100+width)+"px";
 		if (map){
 		map.remove();}
 
@@ -118,7 +108,19 @@
 					stateLayer=L.geoJson(data,{style:style,onEachFeature: onEachFeature});
 					stateLayer.addTo(map);
 				});
+		info = L.control();
 
+		info.onAdd = function (map) {
+			this._div = L.DomUtil.create('div', 'info');
+			this.update();
+			return this._div;
+		};
+
+		info.update = function (infor) {
+			this._div.innerHTML = infor;
+		};
+
+		info.addTo(map);
 		legend.onAdd = function (map) {
 			return div;
 		};
@@ -190,21 +192,21 @@
     	output='<b>AC NAME: </b>'+feature.properties.AC_NAME+'<br>';
     	output+='<b>AC NO:  </b>'+feature.properties.AC_NO+'<hr>';
     	output+='<b>WINNER:  </b>'+data[feature.properties.AC_NO]['leadName']+'<br>';
-    	output+='<b>WON BY:  </b>'+data[feature.properties.AC_NO]['lead']+'<br>';
+    	output+='<b>WON BY:  </b>'+alt[data[feature.properties.AC_NO]['lead']]+'<br>';
     	output+='<b>RUNNER:  </b>'+data[feature.properties.AC_NO]['opsName']+'<br>';
-    	output+='<b>LOST BY:  </b>'+data[feature.properties.AC_NO]['ops']+'<br>';
+    	output+='<b>LOST BY:  </b>'+alt[data[feature.properties.AC_NO]['ops']]+'<br>';
     	output+='<b>margin:  </b>'+data[feature.properties.AC_NO]['margin']+'<br>';
         //layer.bindPopup('<p>'+output+'</p>');
         layer.on("mouseover", function (e) { 
         	if (tapped){return;}
-        		document.getElementById("result").innerHTML='<p>'+output+'</p>';
-        		document.getElementById("result").style.backgroundColor=rgba2hex(colors[alt[data[feature.properties.AC_NO]['lead']]]);
         		
                 if(lastClickedLayer){
    					stateLayer.resetStyle(lastClickedLayer);
 				}
                 lastClickedLayer=layer;
                 layer.setStyle(highlight);
+                info.update('<div id="result" style="padding:0px 3px 0px 7px;width: 180px;overflow-y: auto;">'+output+'</div>');
+                document.getElementById("result").style.backgroundColor=rgba2hex(colors[alt[data[feature.properties.AC_NO]['lead']]]);
             }); 
        	layer.on("click", function (e) { 
        			if (checkLayer==layer){
@@ -212,8 +214,8 @@
        				tapped=false;
        				return;
        			}
-        		document.getElementById("result").innerHTML='<p>'+output+'</p>';
-        		document.getElementById("result").style.backgroundColor=rgba2hex(colors[alt[data[feature.properties.AC_NO]['lead']]]);
+       			//map.fitBounds(e.target.getBounds());
+        		//document.getElementById("result").style.backgroundColor=rgba2hex(colors[alt[data[feature.properties.AC_NO]['lead']]]);
         		tapped=true;
                 if(lastClickedLayer){
    					stateLayer.resetStyle(lastClickedLayer);
@@ -221,6 +223,8 @@
                 lastClickedLayer=layer;
                 checkLayer=layer;
                 layer.setStyle(highlight);
+                info.update('<div id="result" style="padding:0px 3px 0px 7px;width: 180px;overflow-y: auto;">'+output+'</div>');
+                document.getElementById("result").style.backgroundColor=rgba2hex(colors[alt[data[feature.properties.AC_NO]['lead']]]);
             }); 
     	}
         catch(err){}
